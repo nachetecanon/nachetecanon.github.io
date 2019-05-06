@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">47</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cf8c4b0e-316a-480a-a096-7cf2ebcd862c</dc:identifier>
+        <dc:title>El asombroso viaje de Pomponio Flato</dc:title>
+        <dc:creator opf:file-as="Mendoza, Eduardo" opf:role="aut">Mendoza, Eduardo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.42.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-12-12T21:07:40+00:00</dc:date>
+        <dc:language>es</dc:language>
+        <dc:subject>General Interest</dc:subject>
+        <meta content="{&quot;Mendoza, Eduardo&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-05-06T13:09:55.070519+00:00" name="calibre:timestamp"/>
+        <meta content="asombroso viaje de Pomponio Flato, El" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Portada" type="cover"/>
+    </guide>
+</package>

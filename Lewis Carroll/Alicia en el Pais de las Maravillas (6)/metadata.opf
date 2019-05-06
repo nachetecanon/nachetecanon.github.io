@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">db680991-84b4-4d69-87fa-7cf1c1ca1f6f</dc:identifier>
+        <dc:title>Alicia en el Pais de las Maravillas</dc:title>
+        <dc:creator opf:file-as="Carroll, Lewis" opf:role="aut">Lewis Carroll</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.42.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-10-14T22:00:00+00:00</dc:date>
+        <dc:description>Tras el paseo rutinario de la tarde, Alicia echa a correr detrás de un conejo blanco parlante y ataviado con vestidos. Cuando llega a su madriguera se da cuenta que ésta es la entrada a un mundo desconocido.En él Alicia vive unas aventuras singulares que nos recuerdan a todo lo que vivimos en nuestros sueños. Ella es una niña inglesa de buena educación que no cesa de discurrir e imaginar por lo que no parece asombrarle en absoluto nada de lo que vive. De echo cambia de estatura a cada momento, conoce a múltiples animales, escucha numerosas historias de los personajes y es invitada a extraños eventos y fiestas. Alicia se adentra en un mundo surrealista y onírico del que despierta justo antes de que la Reina de Corazones, esa extraña mujer gritona y dominante, le cortara la cabeza.</dc:description>
+        <dc:publisher>Sivinco</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781452820675</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Fantasía</dc:subject>
+        <meta content="{&quot;Lewis Carroll&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-05-06T13:08:09.964440+00:00" name="calibre:timestamp"/>
+        <meta content="Alicia en el Pais de las Maravillas" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Portada" type="cover"/>
+    </guide>
+</package>

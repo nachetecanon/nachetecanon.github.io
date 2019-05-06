@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dc9f52fb-4b16-4727-a693-6fbbc07de312</dc:identifier>
+        <dc:title>1Q84</dc:title>
+        <dc:creator opf:file-as="Murakami, Haruki" opf:role="aut">Haruki Murakami</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.42.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-07-22T19:30:30+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;En japonés, la letra q y el número 9 son homófonos, los dos se pronuncian kyu, de manera que 1Q84 es, sin serlo, 1984, una fecha de ecos orwellianos. Esa variación en la grafía refleja la sutil alteración del mundo en que habitan los personajes de esta novela, que es, también sin serlo, el Japón de 1984. En ese mundo en apariencia normal y reconocible se mueven Aomame, una mujer independiente, instructora en un gimnasio, y Tengo, un profesor de matemáticas. Ambos rondan los treinta años, ambos llevan vidas solitarias y ambos perciben a su modo leves desajustes en su entorno, que los conducirán de manera inexorable a un destino común. Y ambos son más de lo que parecen: la bella Aomame es una asesina; el anodino Tengo, un aspirante a novelista al que su editor ha encargado un trabajo relacionado con La crisálida del aire, una enigmática obra dictada por una esquiva adolescente. Y, como telón de fondo de la historia, el universo de las sectas religiosas, el maltrato y la corrupción, un universo enrarecido que el narrador escarba con precisión orwelliana.&lt;/p&gt;</dc:description>
+        <dc:publisher>TUSQUETS EDITORES</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788483832967</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">f6d2c517-e0a6-4592-9b2b-fd541d0374cd</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta content="{&quot;Haruki Murakami&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-05-06T13:08:08.249103+00:00" name="calibre:timestamp"/>
+        <meta content="1Q84" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Portada" type="cover"/>
+    </guide>
+</package>

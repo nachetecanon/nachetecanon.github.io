@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">21</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a7575c8f-68b6-486f-ab76-73def7898a61</dc:identifier>
+        <dc:title>Nieve en primavera</dc:title>
+        <dc:creator opf:file-as="Mishima, Yukio" opf:role="aut">Yukio Mishima</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.42.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-01-07T23:00:00+00:00</dc:date>
+        <dc:description>Considerada como el testamento ideológico y literario de Yukio Mishima (1925-1970), "El mar de la fertilidad" es una tetralogía en la que el autor abarca a través de su inconfundible mundo narrativo la evolución del Japón desde comienzos del siglo XX hasta los años 70, expresando su rebeldía contra una sociedad que él consideraba sumida en la decadencia moral y espiritual. Articulada en torno a la trágica historia de amor entre los jóvenes Kiyoaki y Satoko, Nieve de primavera (1968) es la primera novela de esta serie que vertebra como testigo y protagonista Shigekuni Honda. En ella, Mishima retrata con una acritud no reñida con su singular estética la rápida apertura hacia formas de vida occidentales y burguesas que propició en Japón la restauración Meiji en detrimento de la cultura tradicional.</dc:description>
+        <dc:language>spa</dc:language>
+        <meta content="{&quot;Yukio Mishima&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-05-06T13:09:47.023465+00:00" name="calibre:timestamp"/>
+        <meta content="Nieve en primavera" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Portada" type="cover"/>
+    </guide>
+</package>

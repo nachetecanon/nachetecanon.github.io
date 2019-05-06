@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Las Baladas Del Ajo</title>
+  <id>urn:book:118c66ac-9a8f-48c9-ac4d-272430fb0ea1</id>
+  <updated>2019-05-06T03:09:49Z</updated>
+  <link href="./book_30.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Las Baladas Del Ajo" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Nacho Books" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Nacho Books" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="book_30_c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../book_0/book_30_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Mo%20Yan/Las%20Baladas%20Del%20Ajo%20%2830%29/Las%20Baladas%20Del%20Ajo%20-%20Mo%20Yan.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+  <author>
+    <name>Mo Yan</name>
+    <uri>../author_0/author_13_Page_1.xml</uri>
+  </author>
+  <published>1995-01-12T00:00:00Z</published>
+  <dcterms:language>es</dcterms:language>
+  <category term="Lang:es" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Lang:es
+    </p>
+  </content>
+  <link href="../author_0/author_13_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Mo Yan" />
+  <link href="http://www.goodreads.com/book/title/Las%20Baladas%20Del%20Ajo" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Las%20Baladas%20Del%20Ajo" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Las%20Baladas%20Del%20Ajo%20Mo%20Yan" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Las%20Baladas%20Del%20Ajo&amp;field-author=Mo%20Yan" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Mo%20Yan" type="text/html" rel="related" title="Mo Yan on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Mo%20Yan" type="text/html" rel="related" title="Mo Yan on Wikipedia" />
+  <link href="http://www.librarything.com/author/YanMo" type="text/html" rel="related" title="Mo Yan on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Mo%20Yan" type="text/html" rel="related" title="Mo Yan on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Mo%20Yan" type="text/html" rel="related" title="Mo Yan on ISFDB" />
+</entry>

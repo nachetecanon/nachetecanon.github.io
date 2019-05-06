@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">60</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5f5c039c-08f3-46cc-bfbd-116fe3ca36d0</dc:identifier>
+        <dc:title>Reactive Programming in Kotlin</dc:title>
+        <dc:creator opf:file-as="Chakraborty, Rivu" opf:role="aut">Rivu Chakraborty</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.42.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-12-05T06:48:07+00:00</dc:date>
+        <dc:publisher>Packt</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>COM059000 - COMPUTERS / Computer Engineering</dc:subject>
+        <dc:subject>COM051440 - COMPUTERS / Software Development and Engineering / Tools</dc:subject>
+        <dc:subject>COM051390 - COMPUTERS / Programming / Open Source</dc:subject>
+        <meta content="{&quot;Rivu Chakraborty&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-05-06T13:10:53.903345+00:00" name="calibre:timestamp"/>
+        <meta content="Reactive Programming in Kotlin" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Portada" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">63</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">702e00df-2cb6-44f0-aa51-80509a78f169</dc:identifier>
+        <dc:title>Programming Kotlin</dc:title>
+        <dc:creator opf:file-as="Samuel, Stephen; Bocutiu, Stefan;" opf:role="aut">Samuel, Stephen; Bocutiu, Stefan;</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.42.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-01-18T05:42:48+00:00</dc:date>
+        <dc:language>es</dc:language>
+        <meta content="{&quot;Samuel, Stephen; Bocutiu, Stefan;&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-05-06T13:10:54.845636+00:00" name="calibre:timestamp"/>
+        <meta content="Programming Kotlin" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Portada" type="cover"/>
+    </guide>
+</package>

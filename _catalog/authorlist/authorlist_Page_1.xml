@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Authors</title>
+  <id>Calibre2opds:authorlist</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Authors" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Nacho Books" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Nacho Books" />
+  <entry>
+    <title>Truman Capote</title>
+    <id>Calibre2opds:author:2</id>
+    <content type="text">A sangre fria</content>
+    <link href="../author_0/author_2_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Lewis Carroll</title>
+    <id>Calibre2opds:author:5</id>
+    <content type="text">2 books</content>
+    <link href="../author_0/author_5_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Rivu Chakraborty</title>
+    <id>Calibre2opds:author:30</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_30_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Saurabh Chhajed</title>
+    <id>Calibre2opds:author:27</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_27_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Desconocido</title>
+    <id>Calibre2opds:author:3</id>
+    <content type="text">14 books</content>
+    <link href="../author_0/author_3_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Bharvi Dixit</title>
+    <id>Calibre2opds:author:24</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_24_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Helen Fielding</title>
+    <id>Calibre2opds:author:4</id>
+    <content type="text">Bridget Jones's Diary</content>
+    <link href="../author_0/author_4_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Stephen Hawking</title>
+    <id>Calibre2opds:author:18</id>
+    <content type="text">Historia Del Tiempo</content>
+    <link href="../author_0/author_18_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Dmitry Jemerov Svetlana Isakova</title>
+    <id>Calibre2opds:author:15</id>
+    <content type="text">Kotlin in Action</content>
+    <link href="../author_0/author_15_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Rafal Kuc</title>
+    <id>Calibre2opds:author:25</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_25_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Dueñas María</title>
+    <id>Calibre2opds:author:21</id>
+    <content type="text">El tiempo entre costuras</content>
+    <link href="../author_0/author_21_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Gabriel García Márquez</title>
+    <id>Calibre2opds:author:10</id>
+    <content type="text">2 books</content>
+    <link href="../author_0/author_10_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Eduardo mendoza</title>
+    <id>Calibre2opds:author:14</id>
+    <content type="text">La ciudad de los prodigios</content>
+    <link href="../author_0/author_14_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Mendoza, Eduardo</title>
+    <id>Calibre2opds:author:23</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_23_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Henry Miller</title>
+    <id>Calibre2opds:author:28</id>
+    <content type="text">Tropico de Cancer</content>
+    <link href="../author_0/author_28_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Yukio Mishima</title>
+    <id>Calibre2opds:author:11</id>
+    <content type="text">3 books</content>
+    <link href="../author_0/author_11_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Haruki Murakami</title>
+    <id>Calibre2opds:author:1</id>
+    <content type="text">7 books</content>
+    <link href="../author_0/author_1_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>nacho</title>
+    <id>Calibre2opds:author:22</id>
+    <content type="text">Java Concurrency in Practice</content>
+    <link href="../author_0/author_22_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Scott Oaks</title>
+    <id>Calibre2opds:author:17</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_17_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Patricio</title>
+    <id>Calibre2opds:author:20</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_20_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Packt Publishing</title>
+    <id>Calibre2opds:author:19</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_19_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Mario Puzo</title>
+    <id>Calibre2opds:author:9</id>
+    <content type="text">4 books</content>
+    <link href="../author_0/author_9_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Marek Rogozinski</title>
+    <id>Calibre2opds:author:26</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_26_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Hideto Saito</title>
+    <id>Calibre2opds:author:6</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_6_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Samuel, Stephen; Bocutiu, Stefan;</title>
+    <id>Calibre2opds:author:32</id>
+    <content type="text">Programming Kotlin</content>
+    <link href="../author_0/author_32_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>José Saramago</title>
+    <id>Calibre2opds:author:12</id>
+    <content type="text">3 books</content>
+    <link href="../author_0/author_12_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>John Schember</title>
+    <id>Calibre2opds:author:31</id>
+    <content type="text">Quick Start Guide</content>
+    <link href="../author_0/author_31_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Ken Schwaber</title>
+    <id>Calibre2opds:author:29</id>
+    <content type="text">The Scrum Guide</content>
+    <link href="../author_0/author_29_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>The Pragmatic Programmers, LLC (#nx000x)</title>
+    <id>Calibre2opds:author:7</id>
+    <content type="text">Pragmatic Version Control</content>
+    <link href="../author_0/author_7_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Oscar Wilde</title>
+    <id>Calibre2opds:author:8</id>
+    <content type="text">3 books</content>
+    <link href="../author_0/author_8_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Mo Yan</title>
+    <id>Calibre2opds:author:13</id>
+    <content type="text">Las Baladas Del Ajo</content>
+    <link href="../author_0/author_13_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Banana Yoshimoto</title>
+    <id>Calibre2opds:author:16</id>
+    <content type="text">Kitchen</content>
+    <link href="../author_0/author_16_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Denis Zuev</title>
+    <id>Calibre2opds:author:33</id>
+    <content type="text">Learn OpenShift</content>
+    <link href="../author_0/author_33_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+</feed>

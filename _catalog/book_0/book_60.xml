@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Reactive Programming in Kotlin</title>
+  <id>urn:book:5f5c039c-08f3-46cc-bfbd-116fe3ca36d0</id>
+  <updated>2019-05-06T03:10:54Z</updated>
+  <link href="./book_60.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Reactive Programming in Kotlin" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Nacho Books" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Nacho Books" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="book_60_c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../book_0/book_60_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Rivu%20Chakraborty/Reactive%20Programming%20in%20Kotlin%20%2860%29/Reactive%20Programming%20in%20Kotlin%20-%20Rivu%20Chakraborty.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+  <author>
+    <name>Rivu Chakraborty</name>
+    <uri>../author_0/author_30_Page_1.xml</uri>
+  </author>
+  <published>2017-12-05T06:48:07Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>Packt</dcterms:publisher>
+  <category term="COM059000 - COMPUTERS / Computer Engineering" />
+  <category term="COM051440 - COMPUTERS / Software Development and Engineering / Tools" />
+  <category term="COM051390 - COMPUTERS / Programming / Open Source" />
+  <category term="Lang:en" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      COM059000 - COMPUTERS / Computer Engineering, COM051440 - COMPUTERS / Software Development and Engineering / Tools, COM051390 - COMPUTERS / Programming / Open Source, Lang:en
+    </p>
+  </content>
+  <link href="../author_0/author_30_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Rivu Chakraborty" />
+  <link href="http://www.goodreads.com/book/title/Reactive%20Programming%20in%20Kotlin" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Reactive%20Programming%20in%20Kotlin" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Reactive%20Programming%20in%20Kotlin%20Rivu%20Chakraborty" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Reactive%20Programming%20in%20Kotlin&amp;field-author=Rivu%20Chakraborty" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Rivu%20Chakraborty" type="text/html" rel="related" title="Rivu Chakraborty on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Rivu%20Chakraborty" type="text/html" rel="related" title="Rivu Chakraborty on Wikipedia" />
+  <link href="http://www.librarything.com/author/ChakrabortyRivu" type="text/html" rel="related" title="Rivu Chakraborty on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Rivu%20Chakraborty" type="text/html" rel="related" title="Rivu Chakraborty on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Rivu%20Chakraborty" type="text/html" rel="related" title="Rivu Chakraborty on ISFDB" />
+</entry>

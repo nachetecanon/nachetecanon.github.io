@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">25</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">081136d7-81fd-43f0-afa4-8b2f427f013c</dc:identifier>
+        <dc:title>Los siete puentes</dc:title>
+        <dc:creator opf:file-as="Mishima, Yukio" opf:role="aut">Yukio Mishima</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.42.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-11-19T23:00:00+00:00</dc:date>
+        <dc:language>spa</dc:language>
+        <dc:subject>japones</dc:subject>
+        <meta content="{&quot;Yukio Mishima&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-05-06T13:09:48.269908+00:00" name="calibre:timestamp"/>
+        <meta content="siete puentes, Los" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Portada" type="cover"/>
+    </guide>
+</package>

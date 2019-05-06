@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">10</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">be0f9d41-e649-4a6a-a13f-de01d53d21b9</dc:identifier>
+        <dc:title>Addison.Wesley.Enterprise.Integration.Patterns</dc:title>
+        <dc:creator opf:file-as="Desconocido" opf:role="aut">Desconocido</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.42.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-11-03T11:06:34+00:00</dc:date>
+        <dc:language>es</dc:language>
+        <meta content="{&quot;Desconocido&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-05-06T13:08:11.272677+00:00" name="calibre:timestamp"/>
+        <meta content="Addison.Wesley.Enterprise.Integration.Patterns" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Portada" type="cover"/>
+    </guide>
+</package>

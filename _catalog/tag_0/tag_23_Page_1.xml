@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Lang:en</title>
+  <id>Calibre2opds:taglist:23</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./tag_23_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Lang:en" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Nacho Books" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Nacho Books" />
+  <link href="../taglist/taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tags" />
+  <entry>
+    <title>Building Machine Learning Systems with Python</title>
+    <id>calibre:book:3</id>
+    <updated>2019-05-06T03:08:09Z</updated>
+    <link href="../book_0/book_3_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Desconocido/Building%20Machine%20Learning%20Systems%20with%20Python%20%283%29/Building%20Machine%20Learning%20Systems%20with%20Pyt%20-%20Desconocido.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Desconocido</name>
+      <uri>../author_0/author_3_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Packt Publishing</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_3.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>DevOps with Kubernetes, Second Edition</title>
+    <id>calibre:book:13</id>
+    <updated>2019-05-06T03:09:44Z</updated>
+    <link href="../book_0/book_13_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Hideto%20Saito/DevOps%20with%20Kubernetes%2C%20Second%20Edition%20%2813%29/DevOps%20with%20Kubernetes%2C%20Second%20Edition%20-%20Hideto%20Saito.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Hideto Saito</name>
+      <uri>../author_0/author_6_Page_1.xml</uri>
+    </author>
+    <published>2019-01-29T07:06:12Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Packt Publishing</dcterms:publisher>
+    <category term="COM091000 - COMPUTERS / Cloud Computing" />
+    <category term="COM088000 - COMPUTERS / System Administration / General" />
+    <category term="COM088010 - COMPUTERS / System Administration / Linux and UNIX Administration" />
+    <category term="Lang:en" />
+    <summary>This book will guide you from container basic concepts to orchestrating containerized applications in Kubernetes. You’ll learn about the Kubernetes basic architecture, components, resources, admission control, and extensions. We’ll show you how to ut...</summary>
+    <link href="../book_0/book_13.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Elasticsearch: A Complete Guide</title>
+    <id>calibre:book:48</id>
+    <updated>2019-05-06T03:09:55Z</updated>
+    <link href="../book_0/book_48_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Bharvi%20Dixit/Elasticsearch_%20A%20Complete%20Guide%20%2848%29/Elasticsearch_%20A%20Complete%20Guide%20-%20Bharvi%20Dixit.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Bharvi Dixit</name>
+      <uri>../author_0/author_24_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Rafal Kuc</name>
+      <uri>../author_0/author_25_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Marek Rogozinski</name>
+      <uri>../author_0/author_26_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Saurabh Chhajed</name>
+      <uri>../author_0/author_27_Page_1.xml</uri>
+    </author>
+    <published>2017-01-31T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Packt Publishing</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_48.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Getting Started with Kubernetes, Second Edition</title>
+    <id>calibre:book:39</id>
+    <updated>2019-05-06T03:09:52Z</updated>
+    <link href="../book_0/book_39_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Packt%20Publishing/Getting%20Started%20with%20Kubernetes%2C%20Second%20Edition%20%2839%29/Getting%20Started%20with%20Kubernetes%2C%20Second%20Ed%20-%20Packt%20Publishing.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Packt Publishing</name>
+      <uri>../author_0/author_19_Page_1.xml</uri>
+    </author>
+    <published>2017-05-31T09:09:24Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Packt Publishing</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_39.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Kotlin in Action</title>
+    <id>calibre:book:33</id>
+    <updated>2019-05-06T03:09:50Z</updated>
+    <link href="../book_0/book_33_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Dmitry%20Jemerov%20Svetlana%20Isakova/Kotlin%20in%20Action%20%2833%29/Kotlin%20in%20Action%20-%20Dmitry%20Jemerov%20Svetlana%20Isakova.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Dmitry Jemerov Svetlana Isakova</name>
+      <uri>../author_0/author_15_Page_1.xml</uri>
+    </author>
+    <published>2017-02-15T08:49:45Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Manning Publications</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>Summary</summary>
+    <link href="../book_0/book_33.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Learn OpenShift</title>
+    <id>calibre:book:65</id>
+    <updated>2019-05-06T05:28:17Z</updated>
+    <link href="../book_0/book_65_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Denis%20Zuev/Learn%20OpenShift%20%2865%29/Learn%20OpenShift%20-%20Denis%20Zuev.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <author>
+      <name>Denis Zuev</name>
+      <uri>../author_0/author_33_Page_1.xml</uri>
+    </author>
+    <published>2019-02-25T07:26:55Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Packt</dcterms:publisher>
+    <category term="COM088000 - COMPUTERS / System Administration / General" />
+    <category term="COM046070 - COMPUTERS / Operating Systems / Linux" />
+    <category term="COM091000 - COMPUTERS / Cloud Computing" />
+    <category term="Lang:en" />
+    <summary>These days, containers and container management are two of the most important software delivery technologies. This book gives you knowledge and hands-on experience to design, build, and operate OpenShift Origin and its underlying software and service...</summary>
+    <link href="../book_0/book_65.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Quick Start Guide</title>
+    <id>calibre:book:62</id>
+    <updated>2019-05-06T03:10:54Z</updated>
+    <link href="../book_0/book_62_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../John%20Schember/Quick%20Start%20Guide%20%2862%29/Quick%20Start%20Guide%20-%20John%20Schember.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <author>
+      <name>John Schember</name>
+      <uri>../author_0/author_31_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <category term="Lang:en" />
+    <summary>calibre Quick Start Guide</summary>
+    <link href="../book_0/book_62.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Reactive Programming in Kotlin</title>
+    <id>calibre:book:60</id>
+    <updated>2019-05-06T03:10:54Z</updated>
+    <link href="../book_0/book_60_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Rivu%20Chakraborty/Reactive%20Programming%20in%20Kotlin%20%2860%29/Reactive%20Programming%20in%20Kotlin%20-%20Rivu%20Chakraborty.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Rivu Chakraborty</name>
+      <uri>../author_0/author_30_Page_1.xml</uri>
+    </author>
+    <published>2017-12-05T06:48:07Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Packt</dcterms:publisher>
+    <category term="COM059000 - COMPUTERS / Computer Engineering" />
+    <category term="COM051440 - COMPUTERS / Software Development and Engineering / Tools" />
+    <category term="COM051390 - COMPUTERS / Programming / Open Source" />
+    <category term="Lang:en" />
+    <link href="../book_0/book_60.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El tiempo entre costuras</title>
+    <id>calibre:book:45</id>
+    <updated>2019-05-06T03:09:54Z</updated>
+    <link href="../book_0/book_45_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Duenas%20Maria/El%20tiempo%20entre%20costuras%20%2845%29/El%20tiempo%20entre%20costuras%20-%20Duenas%20Maria.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Dueñas María</name>
+      <uri>../author_0/author_21_Page_1.xml</uri>
+    </author>
+    <published>2010-01-31T09:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Ediciones Temas de Hoy</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Lang:en" />
+    <summary>Una novela de amor y espionaje en el exotismo colonial de África. La joven modista Sira Quiroga abandona Madrid en los meses convulsos previos al alzamiento arrastrada por el amor des­bocado hacia un hombre a quien apenas conoce. Juntos se instalan e...</summary>
+    <link href="../book_0/book_45.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

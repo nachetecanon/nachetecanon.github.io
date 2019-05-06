@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Addison.Wesley.Enterprise.Integration.Patterns</title>
+  <id>urn:book:be0f9d41-e649-4a6a-a13f-de01d53d21b9</id>
+  <updated>2019-05-06T03:08:11Z</updated>
+  <link href="./book_10.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Addison.Wesley.Enterprise.Integration.Patterns" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Nacho Books" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Nacho Books" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="book_10_c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../book_0/book_10_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Desconocido/Addison.Wesley.Enterprise.Integration.Patterns%20%2810%29/Addison.Wesley.Enterprise.Integration.Patt%20-%20Desconocido.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+  <author>
+    <name>Desconocido</name>
+    <uri>../author_0/author_3_Page_1.xml</uri>
+  </author>
+  <published>2003-11-03T11:06:34Z</published>
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+  </content>
+  <link href="../author_0/author_3_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Desconocido" />
+  <link href="http://www.goodreads.com/book/title/Addison.Wesley.Enterprise.Integration.Patterns" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Addison.Wesley.Enterprise.Integration.Patterns" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Addison.Wesley.Enterprise.Integration.Patterns%20Desconocido" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Addison.Wesley.Enterprise.Integration.Patterns&amp;field-author=Desconocido" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Desconocido" type="text/html" rel="related" title="Desconocido on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Desconocido" type="text/html" rel="related" title="Desconocido on Wikipedia" />
+  <link href="http://www.librarything.com/author/Desconocido" type="text/html" rel="related" title="Desconocido on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Desconocido" type="text/html" rel="related" title="Desconocido on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Desconocido" type="text/html" rel="related" title="Desconocido on ISFDB" />
+</entry>

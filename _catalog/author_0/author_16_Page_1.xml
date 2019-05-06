@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Banana Yoshimoto</title>
+  <id>Calibre2opds:author:16</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./author_16_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Banana Yoshimoto" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Nacho Books" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Nacho Books" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <entry>
+    <title>Kitchen</title>
+    <id>calibre:book:34</id>
+    <updated>2019-05-06T03:09:51Z</updated>
+    <link href="../book_0/book_34_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Banana%20Yoshimoto/Kitchen%20%2834%29/Kitchen%20-%20Banana%20Yoshimoto.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Banana Yoshimoto</name>
+      <uri>../author_0/author_16_Page_1.xml</uri>
+    </author>
+    <published>1988-09-10T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>TUSQUETS EDITORES</dcterms:publisher>
+    <category term="Drama" />
+    <category term="Relato" />
+    <category term="Lang:es" />
+    <summary>Cuando se le muere la abuela, la jovencísima Mikage queda absolutamente sola en una casa demasiado grande y se refugia en la cocina, pues sólo en ella se siente a salvo («El lugar donde mejor se duerme es en la nevera», confiesa). Pero un día «ocurre...</summary>
+    <link href="../book_0/book_34.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

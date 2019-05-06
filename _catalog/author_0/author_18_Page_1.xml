@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Stephen Hawking</title>
+  <id>Calibre2opds:author:18</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./author_18_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Stephen Hawking" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Nacho Books" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Nacho Books" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <entry>
+    <title>Historia Del Tiempo</title>
+    <id>calibre:book:38</id>
+    <updated>2019-05-06T03:09:52Z</updated>
+    <link href="../book_0/book_38_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Stephen%20Hawking/Historia%20Del%20Tiempo%20%2838%29/Historia%20Del%20Tiempo%20-%20Stephen%20Hawking.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Stephen Hawking</name>
+      <uri>../author_0/author_18_Page_1.xml</uri>
+    </author>
+    <published>2010-10-25T09:18:24Z</published>
+    <category term="science" />
+    <summary>Hawking pasa revista a las grandes teorías cosmológicas desde Aristóteles hasta nuestros dias. Tras explicar con gran claridad las aportaciones de Galileo y Newton, nos lleva paso a paso, hasta la teoría de la relatividad de Einstein y hasta la otra ...</summary>
+    <link href="../book_0/book_38.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>All books</title>
+  <id>Calibre2opds:allbooks</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./allbooks_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="All books" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Nacho Books" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Nacho Books" />
+  <entry>
+    <title>Release It! Design and Deploy Production-R</title>
+    <id>calibre:book:61</id>
+    <updated>2019-05-06T03:10:54Z</updated>
+    <link href="../book_0/book_61_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Desconocido/Release%20It%21%20Design%20and%20Deploy%20Production-R%20%2861%29/Release%20It%21%20Design%20and%20Deploy%20Production-R%20-%20Desconocido.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Desconocido</name>
+      <uri>../author_0/author_3_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <link href="../book_0/book_61.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Sauce ciego, mujer dormida</title>
+    <id>calibre:book:58</id>
+    <updated>2019-05-06T03:10:53Z</updated>
+    <link href="../book_0/book_58_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Haruki%20Murakami/Sauce%20ciego%2C%20mujer%20dormida%20%2858%29/Sauce%20ciego%2C%20mujer%20dormida%20-%20Haruki%20Murakami.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Haruki Murakami</name>
+      <uri>../author_0/author_1_Page_1.xml</uri>
+    </author>
+    <published>2012-07-07T11:46:38Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Lang:es" />
+    <link href="../book_0/book_58.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>ScalaByExample</title>
+    <id>calibre:book:59</id>
+    <updated>2019-05-06T03:10:53Z</updated>
+    <link href="../book_0/book_59_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Desconocido/ScalaByExample%20%2859%29/ScalaByExample%20-%20Desconocido.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Desconocido</name>
+      <uri>../author_0/author_3_Page_1.xml</uri>
+    </author>
+    <published>2011-05-24T08:29:55Z</published>
+    <link href="../book_0/book_59.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>ScalaTutorial</title>
+    <id>calibre:book:57</id>
+    <updated>2019-05-06T03:10:53Z</updated>
+    <link href="../book_0/book_57_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Desconocido/ScalaTutorial%20%2857%29/ScalaTutorial%20-%20Desconocido.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Desconocido</name>
+      <uri>../author_0/author_3_Page_1.xml</uri>
+    </author>
+    <published>2011-05-24T08:30:36Z</published>
+    <link href="../book_0/book_57.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Los siete puentes</title>
+    <id>calibre:book:25</id>
+    <updated>2019-05-06T03:09:48Z</updated>
+    <link href="../book_0/book_25_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Yukio%20Mishima/Los%20siete%20puentes%20%2825%29/Los%20siete%20puentes%20-%20Yukio%20Mishima.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Yukio Mishima</name>
+      <uri>../author_0/author_11_Page_1.xml</uri>
+    </author>
+    <published>2010-11-19T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="japones" />
+    <category term="Lang:es" />
+    <link href="../book_0/book_25.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Scrum Guide</title>
+    <id>calibre:book:56</id>
+    <updated>2019-05-06T03:10:52Z</updated>
+    <link href="../book_0/book_56_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Ken%20Schwaber/The%20Scrum%20Guide%20%2856%29/The%20Scrum%20Guide%20-%20Ken%20Schwaber.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Ken Schwaber</name>
+      <uri>../author_0/author_29_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <category term="Software Development" />
+    <category term="Primer Guide Basics Scrum" />
+    <link href="../book_0/book_56.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El tiempo entre costuras</title>
+    <id>calibre:book:45</id>
+    <updated>2019-05-06T03:09:54Z</updated>
+    <link href="../book_0/book_45_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Duenas%20Maria/El%20tiempo%20entre%20costuras%20%2845%29/El%20tiempo%20entre%20costuras%20-%20Duenas%20Maria.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Dueñas María</name>
+      <uri>../author_0/author_21_Page_1.xml</uri>
+    </author>
+    <published>2010-01-31T09:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Ediciones Temas de Hoy</dcterms:publisher>
+    <category term="Novela" />
+    <category term="Lang:en" />
+    <summary>Una novela de amor y espionaje en el exotismo colonial de África. La joven modista Sira Quiroga abandona Madrid en los meses convulsos previos al alzamiento arrastrada por el amor des­bocado hacia un hombre a quien apenas conoce. Juntos se instalan e...</summary>
+    <link href="../book_0/book_45.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Tokio Blues (Norwegian Wood)</title>
+    <id>calibre:book:55</id>
+    <updated>2019-05-06T03:10:52Z</updated>
+    <link href="../book_0/book_55_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Haruki%20Murakami/Tokio%20Blues%20%28Norwegian%20Wood%29%20%2855%29/Tokio%20Blues%20%28Norwegian%20Wood%29%20-%20Haruki%20Murakami.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Haruki Murakami</name>
+      <uri>../author_0/author_1_Page_1.xml</uri>
+    </author>
+    <published>2012-07-07T11:46:38Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Lang:es" />
+    <link href="../book_0/book_55.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Tropico de Cancer</title>
+    <id>calibre:book:54</id>
+    <updated>2019-05-06T03:10:52Z</updated>
+    <link href="../book_0/book_54_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Henry%20Miller/Tropico%20de%20Cancer%20%2854%29/Tropico%20de%20Cancer%20-%20Henry%20Miller.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Henry Miller</name>
+      <uri>../author_0/author_28_Page_1.xml</uri>
+    </author>
+    <published>1995-12-14T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Plaza &amp; Janes</dcterms:publisher>
+    <category term="Lang:es" />
+    <summary>No punches are pulled in Henry Miller's most famous work. Still pretty rough going for even our jaded sensibilities, but Tropic of Cancer is an unforgettable novel of self-confession. Maybe the most honest book ever written, this autobiographical fic...</summary>
+    <link href="../book_0/book_54.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>El Último Don</title>
+    <id>calibre:book:44</id>
+    <updated>2019-05-06T03:09:54Z</updated>
+    <link href="../book_0/book_44_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Mario%20Puzo/El%20Ultimo%20Don%20%2844%29/El%20Ultimo%20Don%20-%20Mario%20Puzo.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Mario Puzo</name>
+      <uri>../author_0/author_9_Page_1.xml</uri>
+    </author>
+    <published>2009-11-08T11:14:15Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="General Interest" />
+    <category term="Lang:es" />
+    <link href="../book_0/book_44.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <link href="../allbooks/allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (1 of 2)" />
+</feed>

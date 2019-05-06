@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Samuel, Stephen; Bocutiu, Stefan;</title>
+  <id>Calibre2opds:author:32</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./author_32_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Samuel, Stephen; Bocutiu, Stefan;" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Nacho Books" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Nacho Books" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <entry>
+    <title>Programming Kotlin</title>
+    <id>calibre:book:63</id>
+    <updated>2019-05-06T03:10:55Z</updated>
+    <link href="../book_0/book_63_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Samuel%2C%20Stephen%3B%20Bocutiu%2C%20Stefan%3B/Programming%20Kotlin%20%2863%29/Programming%20Kotlin%20-%20Samuel%2C%20Stephen%3B%20Bocutiu%2C%20Stefan%3B.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Samuel, Stephen; Bocutiu, Stefan;</name>
+      <uri>../author_0/author_32_Page_1.xml</uri>
+    </author>
+    <published>2017-01-18T05:42:48Z</published>
+    <link href="../book_0/book_63.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

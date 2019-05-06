@@ -1,0 +1,621 @@
+                    RELEASE NOTES for Calibre2Opds v3.5
+                    -----------------------------------
+
+Documentation
+~~~~~~~~~~~~~
+Online documentation for Calibre2Opds can now be found at:
+  http://wiki.mobileread.com/wiki/Calibre2Opds_Index
+There is a link to this from the main Calibre2Opds GUI via the Help
+button.  It is also included in the Calibre2Opds catalogs at the top
+level.  User are encouraged to pass back suggestions for enhancments
+to reflect their experience of using Calibre2Opds. Since the documentation
+is organised as a wiki, users can also contribute their own input to
+improve the documentation.
+
+The #number type references in these notes refer to the bug number
+entries for calibre2opds in the calibre2opds Issue register that is at:
+   http://calibre2opds.myjetbrains.com/youtrack/
+
+Localizations
+~~~~~~~~~~~~~
+The Calibre2Opds application is designed to make it easy to be
+localized to languages other than English.  However to do so, input
+is required from those who can speak those languages to provide the
+correct localization text.  This is not a task that requires
+programming skills, so users are encouraged to contribute their
+expertise in this area.  The details on how to go about this can be
+found at:
+  http://wiki.mobileread.com/wiki/Calibre2OpdsLocalize
+
+Outstanding Feature Requests/Bug Reports
+~~~~~~~~~~~~~~~~~~~~--------------------
+The items listed below are lnown bugs in the current release and new features
+that are under consideration for future releases.
+
+Nore detail can be found in many cases on the calibre2opds Issue register
+(http://calibre2opds.myjetbrains.com/youtrack/).    Note that the fact a feature is listed
+here is not a committment that it will appear, but merely that it is under consideration.
+User are encouraged to add comments to the relevant issues in the Issue Register on their views.
+   -  Improve/Extend localizations.
+   -  #c2o-26: Introduce a carousel mode for the book pages
+   -  #c2o-29: Generate a recent books RSS-compatible catalog
+   -  #c2o-38: Is it possible to generate a flat display for catalogues
+    - #c2o-48: Generate the full-text search HTML page dynamically
+    - #c2o-62: Unfriendly error message when problem with Search in custom catalogs
+    - #c2o-74: Goto Page option in HTML catalogs
+    - #c2o-76: Add context sensitive links to help (documentation)
+    - #c2o-82: Test option for Saved Searches/ Custom Catalogs
+    - #c2o-94: Trook compatibility (lack of Nook+Trook hindering investigation)
+    - #c2o-96: Add some runtime stats on Search database
+    - #c2o-100: Uninstall does not work under Windows 7
+    - #c2o-102: Advise user when Log file contains errors or warnings
+    - #c2o-103: Goodreads URL (by Goodreads ID when available)
+    - #c2o-105: Add a download link to the 'group' pages
+    - #c2o-107: Speed up All Books phase of catalog generation
+    - #c2o-115: Send to Readmill Library
+    - #c20-125: Add Publishers section to generated catalog
+    - #c20-139: Include the .opf files when copying the library in "Publish" mode
+    - #c2o-143: Allow the default book links to external sites to be localized
+    - #c2o-145: Option to avoid splitting books by letter within a tag
+    - #x2o-146: Improve Search facility for large libraries
+    - #c2o-156: Allow Calibre Custom Column values to be treated like additional tags
+    - #c2o-157: Allow Calibre Custom Column values to be used in calibre2opds search criteria
+    - #c2o-158: Improve performance by avoiding generating unchanged pages
+    - #c2o-165: Problem adding Custom Catalog entries (partially fixed)
+    - #c2o-173: Make authors, series and tags into active links in book details
+    - #c20-175: Set logging level via GUI
+    - #c2o-180: Indicate on completion dialog if warnings logged
+    - #c2o-189: Allow inclusion of only regex/wildcard tags to tag catalog
+    - #c2o-200: Improve GUI validation for Custom Catalogs
+    - #c2o-206: The CustomCatalog URL column changes are not registered when changing focus
+    - #c2o-230: Favicon for Library catalog URL
+    - #c20-243: Allow custom icons to be used with Custom Catalog entries
+    = #c2o-248: Allow logging level to be changed from within the GUI.
+    - #c2o-254: Custom Catalog settings not changed when switching profiles
+    - #c2o-256: Suppress displaying Author in Book Details
+    - #c2o-257: Display size on download links
+
+Any requests for new features should be made by adding them to the Issue Register,
+but please look through the list above first to avoid unecessary duplication.  If you
+have a requirement that might need some new feature, but you are nor sure exactly what
+that feature might be then it might be a good idea to first discuss them either in the
+calibre2opds forum, or the "Related Tools" section of the Calibre forum
+
+Release History
+---------------
+The following shows the Calibre2Opds releases in reverse chronological order (so that the most recent
+is at the top) showing main changes and bug fixes.  The bug number references are to those
+that have been recorded in the Issue tracker.
+
+Usefule links for tracking changes are:
+  Issue Register: http://calibre2opds.myjetbrains.com/youtrack/issues
+  Change History: http://code.google.com/p/calibre2opds/source/list
+  
+v3.5 (20 October 2015) Rev 370
+    - Upgrade versions of components used internally by calibre2opds:
+        jdom    1.1 -> 2.0.6
+      	junit		4.7	-> 4.12
+      	log4j   1.1.2 -> 2.2
+      	sqlitejdbc	3.6.17.1-> 3.8.7
+    - Change: Choosing to use thumbnails as covers no longer forces resized cover images to be removed.
+    - Change: Removed option to minimize Changed Files as program logic now tries to do this anyway. 
+    - Change: Performance Optimization to avoid generating HTML files that are known to be unchanged since last run
+              Provides nice performance boost to those who produce both XML and HTML catalog variants.
+    - Change: Recent Books->Today now has date to which "Today" applies added
+    - Fix:    #c2o-242: Publish mode does not let you continue if the destination folder does not exist 
+    - Fix:    #c2o-244: Catalog folder text entry field is too small to show any text 
+    - Fix:    #c20-245: Localization not working properly
+    - Fix:    #c2o-246: Inconsistencies in layout of lists in HTML catalog
+    - Fix:    #c2o-247: ebook files should not be placed on target in Publish mode if downloads disabled
+    - New:    #c2o-249: View older logging files
+    - New:    #c2o-250: Get Confirmation before resetting to defaults
+    - New:    #c20-251: Get confirmation before exiting with unsaved changes
+    - Fix:    #c2o:252: The "Today" section in Recent books should be limited to the current calendar day
+    - Fix:    #c2o-253: Hangs generating catalog (OSX)
+    - Fix:    #c2o-255: OpdsURL references in Custom catalogs are not change to .html ones for the HTML catalog
+    - Change: #c2o_258: Increase the Maximum allowed in Recent Books to 1000 (was500)
+    - Fix:    #c2o-259: Build revision number no longer displayed (regression introduced during 3.5 betas)
+    - Fix:    #c20-260: Calibre2opds .dmg not working on Mac
+    - Fix:    #c2o-261: Changing HTML catalog to/from cover flow not always recognised
+
+
+v3.4 (28th March 2015) Rev 340
+    - Change: Some of the filenames in the generated catalog have changed their structure. Not really visible to
+              users except that first run with this release may take slightly longer than expected during Copy phase
+    - Change: Checkbox for generating external links moved to tab defining them as more logical place.
+    - Change: Search is now deprecated as it is based on a HTML5 database capability that did not make it through the
+              standardixation process.   Gives error message on browsers that do not support the database capability.
+    - Change: Improved German Localization (thanks to Kai Raven)
+    - Change: Progress dialog now properly centered on main Calibre2opds window rather than top left being entered
+    - Change: Initial dialog now centered on the screen.
+    - New:    Option to view File Sync log added to Tools menu.  Can help with debugging caching issues.
+    - New:    When generating the active step is now highlighted in the progress dialog in Red to make it more obvious
+    - Fix:    A Null pointer error if title_sort not set (should not be possible with current Calibre releases)
+    - Fix:    #c2o-86:  Incorrect Mime type for FB2 files (actually fixed by #c2o-93)
+    - New:    #c2o-90:  Make Custom Catalogs setting easier to edit manually in XML
+    - New:    #c2o-93:  Make supported formats and Mime type extendable by users.  Details of how to do this at:
+              http://wiki.mobileread.com/wiki/Calibre2OpdsCustomize#Extend_list_of_supported_formats
+    - Fix:    #c2o-204: Problem navigating to author from an author series in HTML catalog
+    - Fix:    #c2o-205: Destination folder uses Default value instead of the per-profile one
+    - Change: #c2o-207: Show current profile name in the program window's title
+    - New:    #c2o-208: Add rel="prev" links on the XML files and back to previous page on HTML files
+    - New:    #c2o-209: Add a "boolean" column to promote selected custom searches/external URL before internal ones
+    - Fix:    #c2o-210: If the loaded Profile is renamed then it should be reloaded.
+    - New:    #c2o-212: Option to sort books within a tag by author and then title
+    - New:    #c2o-213: Option to suppress split-by-letter within a tag 
+    - Fix:    #c2o-214: Cross links for author do not work if Authors catalog not generated
+    - New:    #c2o-215: Provide more control over which cross-reference types should be generated
+    - Fix:    #c2o-216: Cannot change value for Maximum entries in recent catalog
+    - fix:    #c2o-217: Wrong default location for creating new Configuration folders
+    - New:    #c2o-218: Add support for DJVU downloads
+    - Fix:    #c2o-219: Problem with relative links in generated tags pages when using SplitTagsOn option
+    - Fix:    #c2o-220: Problem in tag pages with titles, beginning with numbers
+    - New:    #c2o-222: Sorting of series should ignore initial articles
+    - Fix:    #c2o-223: Image files are not referenced via Books URL when it is specified
+    - Fix:  - #c2o-224: "Tags to omit from Tags catalog" ignores "Lang:" tags when "Language as Tag" is checked
+    - Fix:    #c2o-225: "Do not include the 'About calibre2opds' entry" should also omit credits at the bottom of index.html
+    - Fix:    #c2o-226: GUI screen size is too tall on 768 pix screens with Windows taskbar unhidden (see also #c2o-232).
+    - Fix:    #c2o-227: New "Custom Fields to include in Book Details" option is only activated after restart
+    - Fix:    #c2o-228: Fields in "Custom Fields to include in Book Details" option should be bold in the generated book details page 
+    - Fix:    #c2o-229: Spacing between fields in Book details should be reduced
+    - fix:    #c2o-231: Split tags doesn't work
+    - New:    #c2o-232: Save Window Size between runs.  Helps with usability on lower resolution screens.
+    - Fix:    #c2o-233: Running in Batch Mode with a Specific Profile not working
+    - Fix:    #c2o-234: Image files omitted from ZIP of catalog
+    - Fix:    #c2o-235: New image size not respected when generating images
+    - Fix:    #c20-236: Unexpected fatal error when generating Series with * for tags that get additional level
+    - Fix:    #c20-237: Delete button not working in Custom Catalogs tab
+    - Fix:    #c2o-238: Do not generate resized covers' option is sometimes ignored
+    - Fix:    #c2o-239: Locale related crash if running under Java 8.
+    - Fix:    #c2o-241: Calibre3opds always fails the first time it is run on anew system
+
+v3.3 (1st April 2014) Rev 274
+    - Change:  Resized cover and thumbnail images are no longer generated as a specific phase,
+               but are instead generated (if required) when creating the book details page
+    - New: #c2o-63:  Allow for authors to be displayed like in Calibre
+    - New: #c2o-109: Improve navigation links in pages
+    - New: #c20-144: Remove redundant folder names in relative links
+    - New: #c2o-147: Option to suppress selected tags in tags sub-catalog
+    - New: #c2o-155: Allow Calibre Custom Column values to be displayed in Book Details
+    - New: #c2o-160: Allow Books to be on a different URL to the catalog
+    - Fix: #c2o-161: The "Language as Tag" value being inverted when saved
+    - New: #c2o-162: Option to Include cover images within the catalog
+    - Fix: #c20-163: If you do multiple generation runs without reloading calibre2opds the catalogs are not correctly generated.
+    - New: #c2o-164: Option to Publish only the generated catalog in Publish mode when Books URL specified
+    - Fix: #c2o-166: HTML Downloads not generated if OPDS catalog not being generated
+    - Fix: #c2o-167: Option to Save bandwidth no longer makes sense so removed it
+    - New: #c2o-168: Omit counts from internal links when Minimize Changed Files selected
+    - New: #c2o-169: Option to exclude tags from cross-reference links
+    - New: #c2o-170: Provide direct links from a list of books to the related authors in HTML catalogs
+    - Fix: #c2o-171: Publication date does not show up in the book details page
+    - Fix: #c20-172: Dmg Release of Mac OSX broken.
+    - Fix: #c2o-174: Invalid catalog generated if Encrypt filenames selected
+    - Fix: #c2o-176: New thumbnails and resized covers not copied until next run in Publish mode
+    - Fix: #c2o-177: Link to top level incorrect if Books URL is specified.
+    - Fix: #c2o-178: Setting for including tags in cross-references toggle between runs
+    - New: #c2o-179: Prefix all files that Calibre2opds adds to Calibre library with c2o_
+    - Fix: #c2o-181: Setting for HTML Downloads not being correctly loaded/saved
+    - Fix: #c2o-182: Browse by Cover mode not working
+    - Fix: #c2o-184: Leaves droppings in /var/tmp
+    - Fix: #c2o-185: Silent batch mode does not work on Windows
+    - Fix: #c2o-186: Problem when author surname shorter than value of split-by-letter level
+    - Fix: #c2o-187: Option for destination to only be catalog in Publish mode disabled
+    - New: #c2o-188: Allow custom external URLs
+    - Fix: #c2o-190: Display author/book title sort fields don't work
+    - Fix: #c2o-191: Tags to omit is not working properly
+    - Fix: #c2o-192: Broken links for omitted tags in Book Details
+    - Fix: #c2o-193: Publish date as year not working
+    - New: #c2o-194: Localization for Brazilian Portuguese (pt-BR, UTF-8)
+    - Fix: #c2o-195: Generating recent catalog leads to stackoverflow
+    - New: #c2o-196: ZIP version of the catalog
+    = Fix: #c2o-197: Unable to add a new custom catalog entry (in 3.3 beta)
+    - Fix: #c2o-198: Allow Relative URL's to be used for Custom catalogs.
+    - Fix: #x2o-199: Custom Catalog entries not logged correctly
+    -.Fix: #c2o-201: 3.3 beta rev 272; 404 error select 'next page'
+    
+
+v3.2 (released 6th October 2013)
+    - Change: Documentation moved back to wiki on MobileRead as it is easier to maintain than is the case on WordPress. 
+              Using a wiki also allows for users to update it directly which should help with improving the documentation.
+    - Change: Reworked the way that filenames within the catalog are derived.   Should mean that filenames are shorter
+              and less cryptic.   However invalidates any cached names from earlier releases.
+    - Change: Reworked way the 'encrypt' files option is handled.  When active an 'encryption string' is
+              added at the start of folder/file names only - but the remainder of names is same as unecrypted versions.
+    - Change: Improvements to run.cmd and rungui.cmd for handling 32-bit Java on 64-bit Windows
+    - Change: Changed the way progress text messages are derived so should be more meaningfull.
+    - New: Added counts to some of the generation progress lines where it made sense (authors, tags, series etc)
+    - Fix: #c2o-18: Re-organise GUI fields amongst the various tabs
+                    (in particular move Featured Books fields to Custom Catalogs tab)
+    - Fix: #c2o-59:  Use Calibre library_sort field when sorting books
+    - Fix: #c2o-66:  Custom catalog tab not correctly reset on switching profiles
+    - Fix: #c2o-85:  Sorting in the All Books catalog should ignore case
+    - Fix: #c2o-91:  Setting catalog folder to  root (/) is not treated as an error
+    - New: #c2o-97:  Context sensitive help on configuration tabs
+    - New: #c2o-108: Omit download section for books with no available download
+    - Fix: #c2o-110: Remove the display of the "Stop catalog generation Button" while other dialog displayed on top
+    - Fix: #c2o-111: The "All Books" section within an author not sorted alphabetically
+    - New: #c2o-112: Do not delete .htaccess files from generated catalog
+    - Fix: #c2o-113: Tags have square brackets added in Book Details
+    - Fix: #c2o-114: Language is ignored when running on command line (cli)
+    - Fix: #c20-116: Improvements to German localization (thanks to Venia.Legendi)
+    - New: #c2o-117: Include year in Recent sub-catalog entries
+    - New: #c2o-120: Remove option to Exit from the confirm dialog displayed after pressing Save
+    - New: #c20-121: Add links to Localization and customization guides to Help menu
+    - New: #c2o-122: Allow more control over contents of Book Details pages.
+    - Fix: #c2o-123: Not handling missing file
+    - Fix: #c2o-128: Not Reading Ratings
+    - Fix: #c2o-130: prc format crashed calibre2opds
+    - Fix: #c2o-133: Add support for Kindle KF8 and AZW3 formats
+    - Fix: #c2o-134: Wrong sorting of list of authors/title with accent
+    - Fix: #c20-135: CALIBRE2OPDS_CONFIG Environment variable used incorrectly
+    - Fix: #c2o-140: Help URL's do not point to latest documentation
+    - Fix: #c2o-141: The 'Open Log File' option does not work on Windows 8
+    - New: #c2o-142: Allow the book links to external sites to be localized
+                     (implemented for GUI defauls - not yet made book language specific)
+    - New:  #c2o-147: (partial for Language) Option to suppress selected tags in tags sub-catalog
+    - Fix: #c2o-148: Catalog generation crashes 3.2 RC (r206)
+    - New: #c2o-149: Added an option to clear encrypted filenames cache to Tools menu
+    - Fix: #c2o-150: Bug 3.2 rev206M - java.lang.NullPointerException: null
+    = Fix: #c2o-151: Incorrect index link
+    - Fix: #c2o-152: Catalog generation causes crash. v. 3.1 rev170M and v3.2 Release Candidate (rev 206)
+    - Fix: #c2o-153: Crash during Copy if Calibre has altered book author/title during run
+    - New: #c2o-154: Allow the user to decide if language should be treated like a tag
+    - Fix: #c2o-159: A value for Maximum Books Summary length of -1 is not being treated correctly
+
+v3.1
+    - Fix: #c2o-51:  Crash while generating covers if image file bad
+    - Fix: #c20-77:  It was possible to set the Destination folder field on new installations in default mode
+    - Fix: #c2o-78:  Windows 7 64-bit systems do not set up Java location
+    - New: #c2o-79:  All Input fields in GUI now have tooltips associated with them
+    - New: #c2o-80:  Manage Profiles dialog now supports adding a new profile as well as rename and delete
+    - Fix: #c2o-81:  Generation fails if no books in the library have their series values set
+    - Fix: #c2o-88:  Disable any split-by-letter for Series within an author
+    - Fix: #c2o-87:  XML catalog title should be the "Catalog Title" as set in the settings
+    - New: #c2o-95:  Option clear log files added to Tools menu
+    - New: #c2o-98:  Link to Issue Register added Help menu
+    - New: #c2o-99:  Link to support forum added to Help menu
+    - New: #c2o-101: Link to User Guide and Developer Guide added to Help Menu
+    - Fix: #c2o-104: Problems with Self and Next links when pagination active. Also pagination links can be brolen.
+    - Change: Removed some split-by-letter options that did not really make sense:
+             Books within a Series (we now never split these by letter)
+             Books within an author  (we now never split these by letter)
+             Series within an Author  (we now never split these by letter)
+    - Change: Moved options for open log file and config folder to Tools menu
+
+v3.0
+    This is a major new release as is reflected by the list of changes shown below
+    - New: OPDS 1.1 compatibility
+    - New: Experimental support for creating and using a search index in HTML catalogs
+    - New: support for Featured Books sub-catalog
+    - New: Support for custom catalog sections (based on Calibre searches)
+    - New: Support for including links to external catalogs
+    - New: Current profile now displayed on main screen
+    - New: Support for suppressing the generation of the Recent Books sub-catalog.
+    - New: Support for suppressing the generation of the Authors sub-catalog.
+    - New: Support for suppressing the generation of the Series sub-catalog.
+    - New: Support for suppressing the generation of the Recent Books sub-catalog.
+    - New: Support for controlling whether Series information shown in Book Details
+    - New: Support for controlling whether Tag information shown in Book Details
+    - New: Support for controlling whether Publisher information shown in Book Details
+    - New: A catalog generation run that has started can be cancelled
+    - New: Use Calibre style searches in a number of places.
+    - New: Maximum length of books summary can now be specified
+    - New: Split by letter now splits to further levels.
+    - New: Option to Control maximum number of levels for Split By letter
+    - New: #751211: Allow use of External icons for catalog sections
+    - New: Reset options added for URL's used for book external links
+    - New: #c20-49: Improve navigation consistency in HTML catalogs
+    - New: German Localization
+    - New: User supplied Resource files can be used.   In particular this will allow for 
+           customization of the look-and-feel aspects of the HTML catalogs.
+    - Change: Internal logging improved.  This should help with diagnosing faults
+    - Change: Series name/number is now at start of Books summary
+    - Change: Icons used are now higher resolution and this look better on high quality screens
+    - Change: Special compatibility modes removed.  Stanza which was main driver for this feature 
+              is now effectively a defunct product (and the 3.2 release works with OPDS comaptibility).
+    - Change: Replace the settings for the tags to be included with the new Calibre filter feature.
+    - Change: Improvements to home folder redirection.  Detail now logged when used.
+    - Fix: #806869 Russian text in comments field not displayed correctly
+    - Fix: #831976 Accented characters not displaying correctly in comments
+    - Fix: #836797 Null pointer exception trying to run calibre2opds in commandline mode.
+    - Fix: #840830 Command line not working in Windows
+    - Fix: #c20-56 Fix handling of multiple authors in OPDS catalogs
+    - Fix: Missing catalog.xml file in Nook/Trook mode
+    - Fix: Books summaries were not being displayed in book lists in HTML catalogs
+    - Fix: Ensure temporary files deleted even if fatal error during generation.
+    - Fix: Many other small bug fixes.  In particular ones that caused fatal errors during 
+           generation are now trapped wherever possible and the run allowed to continue
+           after logging details about the issue.
+
+v2.5 beta 1   (NOTE:  it has now been decided to label the next release as 3.0 and not 2.5)
+    - New: #826209: Allow suppression of resized cover generation - use calibre cover directly
+    - New: #826211: Allow suppression of thumbnail generation - use calibre cover as thumbnail
+    - New: added completion times to each phase in Progress dialog to improve feedback
+    - Fix: #826007 If no comments present, then Book_XXX.html and Book_XXX.xml files empty
+    - New: Reset option added to fields on External Links tab to get back the default values
+           (in case you make a mistake editing it and have forgotten what the starting point was)
+    - New: Any of the external links can be suppressed by setting the relevant URL field to empty.
+
+v2.4 Final Released
+
+v2.4 Beta 5
+    - New: GUI tab added for customizing external links
+    - Fix: #772538 NullPointer after saying No to Exit dialog
+    - Fix: #773549 Covers not copied on first pass
+    - Fix: #772784 Regression - Invalid series link in book details
+    - New: #783401 Option to suppress generation of Tags section of the catalog.
+    - New: option to use external icon files
+           (will also fix #751211 Kindle Browser does not display icons)
+    - New: Option to not split Author's books by letter.
+    - Change: Move Download links above cover image in HTML catalogs to improve usability on devices like Kindle.
+            (would like feedback on how well this works)
+
+2.4 Beta 4
+    - Fix: A number of cases where specific combinations of data
+           In the Calibre database could cause Null pointer errors.
+    - New: logging enhancements to improve usability when
+            attempting to diagnose problems
+    - New/Fix: #716917:  Option to not split series books by letter
+    - New: #717113: Publication date can be limited to year
+    - New: Configuration (home) folder and log file can now be
+           accessed via the Help Menu
+    - New: HTML catalogs now have an option for a new 'Mobile' look
+           for low resolution screens (e.g. phones)
+           (thanks to Farid Soussi for this development)
+    - New: Option to only generate an HTML catalog (i.e. no OPDS
+           catalog)
+    - Fix: #716923: Recent catalog now properly split on calendar day
+           boundaries
+    - Fix: #716558: Timezone now considered for "Date Added" sections
+    - Fix: #732821: Thumbnails were missing first time catalog
+           generated after adding a book
+    - New: #732814: Support for CBZ files
+    - New: #725625: Support for CHM files
+    - New: #723600: New option to only write out changed catalog files
+    - Fix: #723340: Changes to launch script on Windows to work
+           around common user errors in Java setup
+    
+2.4 beta 3
+    - Fix: problem with the installer not installing the tidy jar
+    - New: Improved user interface feedback
+    
+2.4 beta 2
+    - Fix: #677744  HTML tags in Comments field are displayed as text
+    - New: Improved logging support
+           (see http://wiki.mobileread.com/wiki/Calibre2OpdsTrouble#Log_Files)
+    - New: Support for .redirect feature for calibre2opds home folder 
+           (see http://wiki.mobileread.com/wiki/Calibre2OpdsRunning#Config_Folder_redirection)
+
+2.4 beta
+    - New: The name of the top level file is now index.html/index.xml
+           (used to be catalog.html/catalog.xml)
+    - New: The All Books catalog can optionally be sorted by Series
+    - New: Epub Files metadata can be automatically updated to match
+           Calibre database.
+    - New: First attempt at Italian and Spanish Localisation. 
+           Currently only partial.   See:
+           http://wiki.mobileread.com/wiki/Calibre2OpdsDevelop#Calibre2opds_Localization)
+    - Fix: #601190  Can't seem to ignore noise words in titles and
+            series names
+    - Fix: #632163: Behavior of "When browsing by cover, do not split
+            by letter" 
+    - Fix: #655081  Not using Calibre sort value from Authors table 
+    - Fix: #631938  "This book on Goodreads" link is broken 
+    - Fix: #645306  series index should not be limited to integers 
+    - Fix: #615733  Wrong date in Recent Books 
+    - Fix: #640339  Blank lines in the comments/description are
+           omitted in the conversion to the OPDS catalogue. 
+    - New: #557276  Unordered Series support (Series Number of 0)
+    - New: #577208  Add a max. cover size option 
+    - New: #632438  Add librarything.com and amazon links 
+    - New: #652590  catalog can include cbr format 
+
+2.3
+    - Change: Online documentation at http://wiki.mobileread.com/wiki/Calibre2opds updated to reflect 2.3 release.
+    - Change: Removed the use of https:// style links.  No longer
+            needed as was only to get a Javascript library.
+    - New: Configuration profiles to help with saving and re-using
+           parameter sets
+    - New: Compatibility mode added to allow for deviations from OPDS
+           standard for Stanza and Trook.
+    - New: Performance improvements to reduce file I/O.  Should be
+           particularily noticeable if library on network drive.
+    - New: When a step is skipped, the checkbox is now set in the
+           progress dialog
+    - New: Added script files for launching gui manually
+    - New: Thumbnails now use JPEG files instead of PNG files.  
+           These tend to be much smaller.
+    - New: Bug #542735 Add "All Books" under Author.   'All Books'
+           entry now listed as first entry under an author ahead of
+           any series
+    - New: Bug #557287 Catalog cross-references  
+           Rewrote the subcatalogs engine to allow for embedded
+           levels (happy birthday Dave ;)
+    - New: ZIP install package for cases where installer does not
+           work properly (e.g. Windows 64-bit)
+    - Fix: Installer bug for setting up GUI launch on Linux.
+    - Fix: Reset namespace to Atom and added the OPDS namespace as
+            well (should solve Aldiko's problems) (related to #596358)
+    - Fix: corrected a bug : when checking the "include books with no
+           file" checkbox, a null pointer exception occured in
+           Catalog.java
+    - Fix: Problem with incorrect mime type for cover images
+    - Fix: Bug #578839  The target path is not saved when using
+           direct entry
+    - Fix: Bug #592161  Generated catalog no longer works with Aldiko  
+    - Fix: Bug #595053  crash while generating thumbnails      
+    - Fix: Bug #596358  OPDS Catalog namespace must be used only for new OPDS Catalog elements  
+    - Fix: Bug #578298  Suppress Ratings being added to book titles  
+    - Fix: Bug #599770  When there are multiple formats for a book, there should be an option to only include the first one in the catalog  
+    - Fix: Bug #578836  Error in the "skip author page" option 
+           With this option selected, no author page is generated, and therefore the cross-catalogs links are dead...
+    - Fix: Bug #588356  Crash while generating the tags catalog (Java exception)
+    - Fix: Bug #577526  Some authors listed by name, instead of by Author_Sort
+    
+2.2.0 - started using data:// scheme again (lot faster)
+      - the thumbnails are generated in the book folder
+      - a new Nook specific mode !
+      - added the GUI elements for the Nook specific mode
+      - changed the mimetypes for Nook compatibility
+      - in Nook mode, the database folder and the catalog inside it are copied to the destination (recursively, with a date check on each file)
+      - added publisher, at Jane's request
+      - added a NAS specific mode
+      - it's possible to generate a catalog on a NAS or a Nook and to make a copy of it in the Calibre directory (there's an option for that)
+      - corrected bug 552836 (Lastname, firstname authors display incorrectly)
+      - user can directly edit the target and database directories locations
+      - modifed the GUI a bit, to make the device mode setting clearer
+      - added a warning at start, when the configuration is about to be reset
+      - the options that are read-only, because of the mode, are disabled but not hidden
+      - uses the new OPDS namespace (http://opds-spec.org/2010/catalog)
+      - produces full entries for books (but still also full entries in catalogs, for Stanza does not know how to handle partial entries)
+      - generates a separate HTML page for each book, accessible by clicking on the thumbnail in the catalog (for non-javascript browsers)
+      - implemented feature request 570253 (add a "browse by cover" mode to the HTML catalogs)
+      - implemented feature request 570255 (make a catalog of authors, split by letter, but skipping the actual authors list)
+      - in the ratings catalog, the books lists are not split by letter anymore
+      - corrected a bug where the temp folder was not deleted on exit
+      - updated the catalogs to the latest OPDS standard version
+      - moved the log file to $user.home/.calibre2opds/
+
+2.1.1 - corrected Brian's name ;)
+      - removed the useSecureConnections as it was used only for jQuery, and there is no more jQuery
+      - the CLI version no more has command line options, but uses the configuration file
+      - Now create install.exe package for handling UAC correctly on Windows 7/Vista 
+      - GPL license upgraded to be v3
+      - Release notes displayed at end of install process to improve chances of users reading them!
+      - Documentation section on developing for Calibre2Opds added for those who might be interested.
+      - corrected bugs 562877 and 542560 regarding the authors names
+      - corrected bug 549583 ("books" used instead of "tags")
+      - corrected bug 542592 (sorting the authors list)
+      - corrected bug 550217 (change the labels of the "recent books" entries, and set the label of the "today" one to the current date)
+      - corrected bug 557193 (omit 'By;' from author names line)
+      - corrected bug 556379 (add Tags, Series info to Comments field)
+      - corrected bug 568802 (sub-Dividing by Letter under Recent Books)
+      - integrated the latest changes to the HTML catalogs (thanks Brian)
+
+2.1.0 - modified the layout of the GUI to make it better on small, wide screens (e.g. macbooks)
+      - replaced the thumbnail links with the old value (was correct, according to OPDS spec)
+      - corrected the bug : links not generated correctly in the bottom of the HTML catalog
+      - refactored the catalog generation : breadcrumbs, page numbering in the title, summary and titles of the subcatalogs elements, and no more "don't mix books and containers" option
+      - book titles are capitalized and trimmed
+      - added an option "maxsummarylength" to set the maximum size of the summary list (if the summary list exceed this length, it is replaced by a default summary containing the number of items and pages)
+      - secure file manager is now faster
+      - added an "about Calibre2Opds" entry to the main catalog
+      - the authors lists now show the authors as LastName, FirstName
+      - added the ratings catalog and added the rating to the book titles
+      - added an option "tagstoexclude" to set a list of tags that will be excluded
+      - corrected a bug in the tag catalog : when removing unneeded levels, the tags have to be renamed or a part of the name will miss
+      - added options to disable the "Ratings" and "All books" catalog
+      - added a Help button to the GUI
+      - moved the thumbnails into a subfolder
+      - the data model is preloaded before the catalogs are generated (removes the overhead on the first generated catalog)
+      - added a "don't use split tags" checkbox so it's easier to disable this option (and corrected a GUI bug, too : text field was not editable)
+      - added a "reset to defaults" button
+      - optimized the code a bit
+      - changed the CSS for HTML catalogs : links are not underlined anymore
+
+2.0.2 - corrected the bug : missing thumbnails in the HTML catalogs
+      - corrected the bug : program stuck in the tags catalog in large libraries
+
+2.0.1 - corrected a bug with the generation of thumbnails (they were generated but not referenced in the catalogs, on first run)
+      - corrected a problem with the books written by more than one author
+      - added a generation date to the OPDS (set the "do not optimize bandwith") and HTML catalogs (always there, regardless of the option)
+      - internationalized the info text at the bottom of the main HTML page
+      - added an option to use HTTPS in the external links
+      - added an option to specify a tag that assigns a language to a book ; this is used to sort in a language dependent way
+      - enhanced the sorting and splitting of the authors (case insensitive sort, spaces do not count)
+      - changed the file naming scheme to generating random filenames (which are kept from one run of the program to the next, nonetheless) ; use --nocryptfilenames if you don't like it
+      - the author pages now contain links to the series to which this author has contributed
+      - corrected the thumbnail links for true OPDS (Aldiko)
+      - added an option to list only books with a specific tag
+      - added an option to disable the creation of external links
+      - added an option to disable the creation of cross-reference links
+      - solved the problem with the authors whose name contains pipe characters ('|')
+
+2.0.0 - MAJOR NEW RELEASE
+	introduced the new graphical user interface, and the configuration file
+
+1.0.9 - yet another regression bug : paths were again encoded with %2F instead of /
+
+1.0.8 - regression bug correction : recent books were not populated
+
+1.0.7 - updated the code and the prerequisites to make calibre2opds run with Java 1.5
+      - added a link to calibre2opds.css in the XML files to help itimpi in his research
+      - added the page numbers when paginating, and replaced the "next page" link in the HTML catalogs with a CSS button
+      - corrected a bug : if the book folder in Calibre contained a / character, it would be encoded as a %2F in the book URLs, choking some browsers/web servers...
+      - added navigation "breadcrumbs" in the HTML catalogs
+
+1.0.6 - corrected a regression bug in the HMTML catalog generator (download links and program version were missing)
+
+1.0.5 - corrected a bug : when a recent books subcatalog is split by letter, the links to letter subcatalogs are broken
+      - modified the HTML pages to make the popup menus work in IE (this time it should work)
+      - books with no file attached can be included in the catalog by using the --includeemptybooks option
+      - the books ids are now generated by using the uuid included in the Calibre database (they will be really unique now)
+
+1.0.4 - corrected a bug : link to picture is missing from the thumbnail link (the OPDS one, not Stanza's)
+      - corrected a bug : books for an author or a tag were not sorted by title
+      - made the icons true png files to save space
+      - changed the localization class to make it use UTF-8 files
+      - modified the HTML pages to make the popup menus work in IE (thanks Jens !)
+
+1.0.3 - corrected a problem in the URLs : the / were escaped when it was not necessary
+      - corrected a bug : the parameter specifying the calibre folder was not read correctly
+      - the authors list was not split nor sorted by last name but by first name
+      - updated the readme.txt with the information of the FAQs
+
+1.0.2 - corrected a NullPointerException bug when a book has no author
+      - books sorted by letter were then sorted in reverse alphabetical order
+      - added branding to the project
+
+1.0.1 - added the --nouseauthorsort option, which makes the tool resort to the author name for sorting, instead of the special Calibre 'sort' field
+      - added the --catalogtitle option, to allow for custom catalog titles
+      - corrected a bug in the "split by letter" catalogs, with the "other" split element
+
+1.0.0 - ended beta phase, moved to Launchpad, renamed to calibre2opds
+
+
+0.0.8 - split by letter for all catalogs, when the --maxBeforeSplit option is reached
+      - added icons in all the elements of the catalogs
+      - added icons in the HTML catalogs, too
+      - added a check to rebuild thumbnails when --thumbnailHeight has changed
+      - changed the way the "split by letter" catalog entries are described
+      - added the --nogeneratefiles options, to skip download links in the OPDS catalogs (useful for demos)
+      - added the --nomixbooks option, when set the books and their containers are never mixed (by inserting additional container levels)
+      - enhanced authors, tags, series, and all books container summaries
+
+0.0.7 - the books in the "books by letter" subcatalogs are now sorted by title
+      - the links to Wikipedia in the "recent books" subcatalogs were including the date in the title
+      - the eReader format should now be recognized by Stanza
+      - the tool is launched with a 256Mb memory setting by default (useful if the user's library is huge)
+      - added a warning when the thumbnail size is set to more than 125
+      - added the thumbnail in the Stanza style (x-stanza-cover-image-thumbnail) because Stanza does not support this feature of OPDS 
+      - corrected the links (urlencoded them)
+      - enhanced the HTML catalogs
+      - added internationalization support
+      - the tags catalogs can be categorized (i.e. if your tags are formatted like Action:ToRead:Now, they will be generated as a tree of catalogs)
+
+0.0.6 - corrected (again) the database access
+      - added multiple file formats (all by default, use --includeformats)
+      - the user has the choice of options (use --help to find out which)
+      - added cross-references in the books pages (to other books by the same author, other books in the same categories, etc.)
+      - added links to Goodread in the books details (and to Wikipedia, but only in the HTML catalogs)
+      - rewrote the output engine, we are now OPDS-compliant (meaning that Aldiko users can also use our catalogs)
+      - added HTML catalogs alongside the XML ones, with nice popup menus (hint: catalog.html) (Ian's idea, thanks go to him)
+      - added generation of thumbnail images, to save bandwidth and speed up the feed loadings in Stanza
+      - stole the icons of Feedbook to use them in my feed (I hope it's not a problem for Hadrien...)
+      - all the catalogs are now paginated
+      - added the option of not generating the download section in the HTML catalogs (again, Ian's idea)
+
+0.0.5 - corrected a bug in the database SQL requests which made the tool miss a few books (or all, in some cases)
+
+0.0.4 - changed the way the tool finds the ebook files ; it now looks inside the database for a Calibre-computed filename
+
+0.0.3 - added a test mode parameter, to make it easier to find and eradicate bugs that I cannot easily reproduce here
+
+0.0.2 - authors, series and recent additions
+        #2908112 : Generate series catalog
+        #2908111 : Generate authors catalog
+        #2908109 : Generate recent books catalog
+
+0.0.1 - first ever release
+        This is the first release, lacking some functionnality but usable nonetheless.
+

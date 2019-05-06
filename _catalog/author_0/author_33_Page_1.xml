@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Denis Zuev</title>
+  <id>Calibre2opds:author:33</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./author_33_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Denis Zuev" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Nacho Books" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Nacho Books" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <entry>
+    <title>Learn OpenShift</title>
+    <id>calibre:book:65</id>
+    <updated>2019-05-06T05:28:17Z</updated>
+    <link href="../book_0/book_65_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Denis%20Zuev/Learn%20OpenShift%20%2865%29/Learn%20OpenShift%20-%20Denis%20Zuev.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <author>
+      <name>Denis Zuev</name>
+      <uri>../author_0/author_33_Page_1.xml</uri>
+    </author>
+    <published>2019-02-25T07:26:55Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Packt</dcterms:publisher>
+    <category term="COM088000 - COMPUTERS / System Administration / General" />
+    <category term="COM046070 - COMPUTERS / Operating Systems / Linux" />
+    <category term="COM091000 - COMPUTERS / Cloud Computing" />
+    <category term="Lang:en" />
+    <summary>These days, containers and container management are two of the most important software delivery technologies. This book gives you knowledge and hands-on experience to design, build, and operate OpenShift Origin and its underlying software and service...</summary>
+    <link href="../book_0/book_65.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

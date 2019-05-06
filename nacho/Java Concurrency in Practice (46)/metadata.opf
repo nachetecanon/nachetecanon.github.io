@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">46</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">134ac816-bdea-4928-a1b3-1286f6fa6805</dc:identifier>
+        <dc:title>Java Concurrency in Practice</dc:title>
+        <dc:creator opf:file-as="nacho" opf:role="aut">nacho</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.42.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-08-20T23:58:07+00:00</dc:date>
+        <dc:language>es</dc:language>
+        <meta content="{&quot;nacho&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-05-06T13:09:54.712795+00:00" name="calibre:timestamp"/>
+        <meta content="Java Concurrency in Practice" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Portada" type="cover"/>
+    </guide>
+</package>

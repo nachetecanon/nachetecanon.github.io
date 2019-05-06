@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8f04d546-9fa7-42d8-b68c-aa1ca26c3a13</dc:identifier>
+        <dc:title>Alicia a través del espejo</dc:title>
+        <dc:creator opf:file-as="Carroll, Lewis" opf:role="aut">Lewis Carroll</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.42.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-11-05T23:00:00+00:00</dc:date>
+        <dc:description>&lt;P&gt;&lt;STRONG&gt;Alicia a través del espejo&lt;/STRONG&gt; es un cuento infantil escrito por&amp;nbsp;Lewis Carroll&amp;nbsp;en&amp;nbsp;1871. Es la secuela de&amp;nbsp;&lt;I&gt;Las aventuras de Alicia en el país de las maravillas&lt;/I&gt;&amp;nbsp;(aunque no hace referencias a lo que ocurre en ese libro). Muchas cosas de las que acontecen en el libro parecen, metafóricamente, reflejadas en unespejo.&lt;/P&gt; &lt;P&gt;Mientras que el primer libro juega con&amp;nbsp;cartas&amp;nbsp;vivientes, en esta ocasión Alicia se ve envuelta en una loca partida de&amp;nbsp;ajedrez. Carroll nos proporciona una lista de los movimientos que en ella se producen, aunque algunos de ellos van en contra de las reglas del juego, como si fuera un niño pequeño el que estuviera jugando.&lt;/P&gt; &lt;P&gt;No aparecen personajes exactos de&amp;nbsp;&lt;I&gt;Alicia en el país de las maravillas&lt;/I&gt;, sólo se toma la imagen de&amp;nbsp;El Sombrerero Loco&amp;nbsp;como&amp;nbsp;Hatta&amp;nbsp;(que su pronunciación en inglés suena muy parecido a&amp;nbsp;&lt;I&gt;Hatter&lt;/I&gt;,&amp;nbsp;sombrerero) y&amp;nbsp;La Liebre de Marzo&amp;nbsp;como&amp;nbsp;Haiga&amp;nbsp;(que su pronunciación en inglés suena como a&amp;nbsp;&lt;I&gt;Hare&lt;/I&gt;,&amp;nbsp;liebre) cuya aparición se hace presente en el capítulo séptimo (El León y el Unicornio), un personaje diferente en esta secuela.&lt;/P&gt;</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Fantasía</dc:subject>
+        <meta content="{&quot;Lewis Carroll&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-05-06T13:08:10.311384+00:00" name="calibre:timestamp"/>
+        <meta content="Alicia a través del espejo" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Portada" type="cover"/>
+    </guide>
+</package>

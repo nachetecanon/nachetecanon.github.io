@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>DEVOPS WITH KUBERNETES SECOND EDITION</title>
+  <id>urn:book:cfb19468-4560-4a33-b58c-ff08d919ee1c</id>
+  <updated>2019-05-06T03:09:45Z</updated>
+  <link href="./book_16.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="DEVOPS WITH KUBERNETES SECOND EDITION" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Nacho Books" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Nacho Books" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="book_16_c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../book_0/book_16_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Desconocido/DEVOPS%20WITH%20KUBERNETES%20SECOND%20EDITION%20%2816%29/DEVOPS%20WITH%20KUBERNETES%20SECOND%20EDITION%20-%20Desconocido.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+  <author>
+    <name>Desconocido</name>
+    <uri>../author_0/author_3_Page_1.xml</uri>
+  </author>
+  <published>2019-01-29T06:21:22Z</published>
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+  </content>
+  <link href="../author_0/author_3_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Desconocido" />
+  <link href="http://www.goodreads.com/book/title/DEVOPS%20WITH%20KUBERNETES%20SECOND%20EDITION" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/DEVOPS%20WITH%20KUBERNETES%20SECOND%20EDITION" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/DEVOPS%20WITH%20KUBERNETES%20SECOND%20EDITION%20Desconocido" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=DEVOPS%20WITH%20KUBERNETES%20SECOND%20EDITION&amp;field-author=Desconocido" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Desconocido" type="text/html" rel="related" title="Desconocido on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Desconocido" type="text/html" rel="related" title="Desconocido on Wikipedia" />
+  <link href="http://www.librarything.com/author/Desconocido" type="text/html" rel="related" title="Desconocido on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Desconocido" type="text/html" rel="related" title="Desconocido on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Desconocido" type="text/html" rel="related" title="Desconocido on ISFDB" />
+</entry>

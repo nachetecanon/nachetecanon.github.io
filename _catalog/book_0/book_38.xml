@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Historia Del Tiempo</title>
+  <id>urn:book:b8fc84e7-a772-4fbe-9d38-108d8807922c</id>
+  <updated>2019-05-06T03:09:52Z</updated>
+  <link href="./book_38.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Historia Del Tiempo" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Nacho Books" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Nacho Books" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="book_38_c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../book_0/book_38_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Stephen%20Hawking/Historia%20Del%20Tiempo%20%2838%29/Historia%20Del%20Tiempo%20-%20Stephen%20Hawking.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+  <author>
+    <name>Stephen Hawking</name>
+    <uri>../author_0/author_18_Page_1.xml</uri>
+  </author>
+  <published>2010-10-25T09:18:24Z</published>
+  <category term="science" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      science
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="">Hawking pasa revista a las grandes teorías
+    cosmológicas desde Aristóteles hasta nuestros dias.
+    Tras explicar con gran claridad las aportaciones de Galileo y
+    Newton, nos lleva paso a paso, hasta la teoría de la
+    relatividad de Einstein y hasta la otra gran teoría
+    física del siglo XX, la mecánica cuántica.
+    Finalmente explora las posibilidades de combinar ambas
+    teorías en una sola teoría unificada completa que nos
+    permita verificar inquientantes reflexiones: ¿Cuál es
+    la naturaleza del tiempo? Al colapsarse un universo en
+    expansión ¿viaja el tiempo hacia atrás?
+    ¿Puede ser el universo un continuum sin principios ni
+    fronteras? Todo está en este libro mítico, reconocido
+    por el mundo entero como una aportación de primer orden al
+    pensamiento científico y a la entera cultura universal, en
+    el que Hawking nos explica, con asombrosa sencillez, las leyes
+    que desvelan la compleja danza geométrica creadora del
+    mundo y de la vida.</p>
+  </content>
+  <link href="../author_0/author_18_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Stephen Hawking" />
+  <link href="http://www.goodreads.com/book/title/Historia%20Del%20Tiempo" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Historia%20Del%20Tiempo" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Historia%20Del%20Tiempo%20Stephen%20Hawking" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Historia%20Del%20Tiempo&amp;field-author=Stephen%20Hawking" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Stephen%20Hawking" type="text/html" rel="related" title="Stephen Hawking on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Stephen%20Hawking" type="text/html" rel="related" title="Stephen Hawking on Wikipedia" />
+  <link href="http://www.librarything.com/author/HawkingStephen" type="text/html" rel="related" title="Stephen Hawking on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Stephen%20Hawking" type="text/html" rel="related" title="Stephen Hawking on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Stephen%20Hawking" type="text/html" rel="related" title="Stephen Hawking on ISFDB" />
+</entry>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">48</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">66d2d015-fbec-4416-99d2-6a9ce6b57957</dc:identifier>
+        <dc:title>Elasticsearch: A Complete Guide</dc:title>
+        <dc:creator opf:file-as="Dixit, Bharvi" opf:role="aut">Bharvi Dixit</dc:creator>
+        <dc:creator opf:file-as="Dixit, Bharvi" opf:role="aut">Rafal Kuc</dc:creator>
+        <dc:creator opf:file-as="Dixit, Bharvi" opf:role="aut">Marek Rogozinski</dc:creator>
+        <dc:creator opf:file-as="Dixit, Bharvi" opf:role="aut">Saurabh Chhajed</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.42.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-01-31T00:00:00+00:00</dc:date>
+        <dc:publisher>Packt Publishing</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B01MTFBKWY</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Bharvi Dixit&quot;: &quot;&quot;, &quot;Rafal Kuc&quot;: &quot;&quot;, &quot;Saurabh Chhajed&quot;: &quot;&quot;, &quot;Marek Rogozinski&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-05-06T13:09:55.426991+00:00" name="calibre:timestamp"/>
+        <meta content="Elasticsearch: A Complete Guide" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Portada" type="cover"/>
+    </guide>
+</package>

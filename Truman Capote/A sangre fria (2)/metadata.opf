@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d66dc273-946c-4bf5-b069-1ca8eaa8788b</dc:identifier>
+        <dc:title>A sangre fria</dc:title>
+        <dc:creator opf:file-as="Capote, Truman" opf:role="aut">Truman Capote</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.42.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-11-06T14:03:36.265000+00:00</dc:date>
+        <dc:description>El pueblo de Holcomb está en las elevadas llanuras trigueras del oeste de Kansas, una zona solitaria que otros habitantes de Kansas llaman "allá"... A partir de esta locación precisa, Truman Capote captura al lector en una historia apasionante e inaugura un género. La historia es la de los cuatro integrantes de la familia Clutter, salvajemente asesinados en su casa, una tragedia que se enlaza con el linchamiento de Dick Hickock y Perry Smith, cinco años, cuatro meses y diecinueve días más tarde. El género "non fiction novel", una genial combinación de los elementos claves de los oficios de escritor y periodista.</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novels</dc:subject>
+        <meta content="{&quot;Truman Capote&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-05-06T13:08:08.593192+00:00" name="calibre:timestamp"/>
+        <meta content="A sangre fria" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Portada" type="cover"/>
+    </guide>
+</package>

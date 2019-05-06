@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Lewis Carroll</title>
+  <id>Calibre2opds:author:5</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./author_5_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Lewis Carroll" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Nacho Books" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Nacho Books" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <entry>
+    <title>Alicia a través del espejo</title>
+    <id>calibre:book:7</id>
+    <updated>2019-05-06T03:08:10Z</updated>
+    <link href="../book_0/book_7_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Lewis%20Carroll/Alicia%20a%20traves%20del%20espejo%20%287%29/Alicia%20a%20traves%20del%20espejo%20-%20Lewis%20Carroll.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Lewis Carroll</name>
+      <uri>../author_0/author_5_Page_1.xml</uri>
+    </author>
+    <published>2010-11-05T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Fantasía" />
+    <category term="Lang:es" />
+    <summary>Alicia a través del espejo es un cuento infantil escrito por&amp;nbsp;Lewis Carroll&amp;nbsp;en&amp;nbsp;1871. Es la secuela de&amp;nbsp;Las aventuras de Alicia en el país de las maravillas&amp;nbsp;(aunque no hace referencias a lo que ocurre en ese libro). Muchas cosas...</summary>
+    <link href="../book_0/book_7.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Alicia en el Pais de las Maravillas</title>
+    <id>calibre:book:6</id>
+    <updated>2019-05-06T03:08:10Z</updated>
+    <link href="../book_0/book_6_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Lewis%20Carroll/Alicia%20en%20el%20Pais%20de%20las%20Maravillas%20%286%29/Alicia%20en%20el%20Pais%20de%20las%20Maravillas%20-%20Lewis%20Carroll.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Lewis Carroll</name>
+      <uri>../author_0/author_5_Page_1.xml</uri>
+    </author>
+    <published>2010-10-14T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Sivinco</dcterms:publisher>
+    <category term="Fantasía" />
+    <category term="Lang:es" />
+    <summary>Tras el paseo rutinario de la tarde, Alicia echa a correr detrás de un conejo blanco parlante y ataviado con vestidos. Cuando llega a su madriguera se da cuenta que ésta es la entrada a un mundo desconocido.En él Alicia vive unas aventuras singulares...</summary>
+    <link href="../book_0/book_6.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

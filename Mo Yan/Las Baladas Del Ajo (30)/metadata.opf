@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">30</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">118c66ac-9a8f-48c9-ac4d-272430fb0ea1</dc:identifier>
+        <dc:title>Las Baladas Del Ajo</dc:title>
+        <dc:creator opf:file-as="Yan, Mo" opf:role="aut">Mo Yan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.42.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1995-01-12T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="MOBI-ASIN">f4be78ce-9f49-464d-96d9-c91b0be6e888</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta content="{&quot;Mo Yan&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-05-06T13:09:49.676123+00:00" name="calibre:timestamp"/>
+        <meta content="Baladas Del Ajo, Las" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Portada" type="cover"/>
+    </guide>
+</package>

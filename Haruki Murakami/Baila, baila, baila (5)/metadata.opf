@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0e8ea3ac-2b05-4e74-91e7-e4df8ac761e7</dc:identifier>
+        <dc:title>Baila, baila, baila</dc:title>
+        <dc:creator opf:file-as="Murakami, Haruki" opf:role="aut">Haruki Murakami</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.42.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;En marzo de 1983, el joven protagonista de esta novela, redactor freelance todoterreno, después de pasar días sombríos, siente la necesidad de volver a ciertos escenarios de su vida para ajustar cuentas con el pasado. Viaja a Sapporo con la intención de alojarse en el Hotel Delfín, donde años atrás pasó una semana con una misteriosa mujer que, de manera inesperada, desapareció de su lado. A su llegada descubre que han derribado el hotel y que en su lugar se alza otro, moderno y lujoso, pero su estancia allí propicia la aparición de personajes envueltos en un aura de irrealidad: una guapa recepcionista que ha vivido experiencias inverosímiles, una adolescente dotada de una aguda sensibilidad, o un antiguo compañero de colegio, ahora actor de éxito, que lo meterá en graves aprietos. Asesinatos, viajes a Hawai, pasajes a otros mundos y fiestas se suceden al ritmo de la música que suena en la radio de su destartalado Subaru. Lo cierto es que, como afirma un enigmático personaje, todo está conectado. Porque sólo se regresa al Hotel Delfín para poder empezar de nuevo.&lt;/p&gt;</dc:description>
+        <dc:publisher>TUSQUETS EDITORES</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788483836248</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">946ba837-4c6d-47a8-ac4a-04a71f451de2</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta content="{&quot;Haruki Murakami&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-05-06T13:08:09.637502+00:00" name="calibre:timestamp"/>
+        <meta content="Baila, baila, baila" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Portada" type="cover"/>
+    </guide>
+</package>
