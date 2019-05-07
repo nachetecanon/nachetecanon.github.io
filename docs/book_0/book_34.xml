@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Kitchen</title>
+  <id>urn:book:2c2afa6f-7262-4759-8c04-5f8be43f8ea3</id>
+  <updated>2019-05-07T07:35:53Z</updated>
+  <link href="./book_34.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Kitchen" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Nacho's library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Nacho's library" />
+  <link href="../authorlist/authorlist_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../../Banana%20Yoshimoto/Kitchen%20%2834%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Banana%20Yoshimoto/Kitchen%20%2834%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Banana%20Yoshimoto/Kitchen%20%2834%29/Kitchen%20-%20Banana%20Yoshimoto.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+  <author>
+    <name>Banana Yoshimoto</name>
+    <uri>../author_0/author_16_Page_1.xml</uri>
+  </author>
+  <published>1988-09-10T10:00:00Z</published>
+  <dcterms:language>es</dcterms:language>
+  <dcterms:publisher>TUSQUETS EDITORES</dcterms:publisher>
+  <category term="Drama" />
+  <category term="Relato" />
+  <category term="Lang:es" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Drama, Relato, Lang:es
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="">Cuando se le muere la abuela, la jovencísima Mikage
+    queda absolutamente sola en una casa demasiado grande y se
+    refugia en la cocina, pues sólo en ella se siente a salvo
+    («El lugar donde mejor se duerme es en la nevera»,
+    confiesa). Pero un día «ocurre un milagro»:
+    Yûichi, «un chico simpático», llama a la
+    puerta de Mikage y le sugiere que vaya a vivir a su casa, con
+    su madre Eriko. Pero esta hermosa y acogedora mujer no es una
+    mujer: es un hombre que pasó a ser mujer cuando la
+    verdadera madre de Yûichi perdió la vida. Esta
+    fábula, que se desarrolla entre ordenadores,
+    electrodomésticos y sobre todo alimentos y guisos, pero
+    también entre sentimientos de amor, amistad y complicidad,
+    es en realidad una historia terrible, en que la soledad y la
+    aridez emocional quedan, como por «milagro»,
+    mitigados por la inmensa sabiduría de otro mundo
+    ancestral, afortunadamente aún latente, aún
+    perceptible.</p>
+  </content>
+  <link href="../author_0/author_16_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Banana Yoshimoto" />
+  <link href="http://www.goodreads.com/book/title/Kitchen" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Kitchen" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Kitchen%20Banana%20Yoshimoto" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Kitchen&amp;field-author=Banana%20Yoshimoto" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Banana%20Yoshimoto" type="text/html" rel="related" title="Banana Yoshimoto on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Banana%20Yoshimoto" type="text/html" rel="related" title="Banana Yoshimoto on Wikipedia" />
+  <link href="http://www.librarything.com/author/YoshimotoBanana" type="text/html" rel="related" title="Banana Yoshimoto on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Banana%20Yoshimoto" type="text/html" rel="related" title="Banana Yoshimoto on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Banana%20Yoshimoto" type="text/html" rel="related" title="Banana Yoshimoto on ISFDB" />
+</entry>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Learn OpenShift</title>
+  <id>urn:book:f3a7c00c-e8f6-48cf-a81b-42d61064564f</id>
+  <updated>2019-05-07T07:35:53Z</updated>
+  <link href="./book_65.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Learn OpenShift" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Nacho's library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Nacho's library" />
+  <link href="../authorlist/authorlist_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../../Denis%20Zuev/Learn%20OpenShift%20%2865%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Denis%20Zuev/Learn%20OpenShift%20%2865%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Denis%20Zuev/Learn%20OpenShift%20%2865%29/Learn%20OpenShift%20-%20Denis%20Zuev.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+  <author>
+    <name>Denis Zuev</name>
+    <uri>../author_0/author_33_Page_1.xml</uri>
+  </author>
+  <published>2019-02-25T07:26:55Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>Packt</dcterms:publisher>
+  <category term="COM088000 - COMPUTERS / System Administration / General" />
+  <category term="COM046070 - COMPUTERS / Operating Systems / Linux" />
+  <category term="COM091000 - COMPUTERS / Cloud Computing" />
+  <category term="Lang:en" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      COM088000 - COMPUTERS / System Administration / General, COM046070 - COMPUTERS / Operating Systems / Linux, COM091000 - COMPUTERS / Cloud Computing, Lang:en
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="">These days, containers and container management are two of
+    the most important software delivery technologies. This book
+    gives you knowledge and hands-on experience to design, build,
+    and operate OpenShift Origin and its underlying software and
+    services not only in the lab, but in production environments as
+    well.</p>
+  </content>
+  <link href="../author_0/author_33_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Denis Zuev" />
+  <link href="http://www.goodreads.com/book/title/Learn%20OpenShift" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Learn%20OpenShift" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Learn%20OpenShift%20Denis%20Zuev" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Learn%20OpenShift&amp;field-author=Denis%20Zuev" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Denis%20Zuev" type="text/html" rel="related" title="Denis Zuev on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Denis%20Zuev" type="text/html" rel="related" title="Denis Zuev on Wikipedia" />
+  <link href="http://www.librarything.com/author/ZuevDenis" type="text/html" rel="related" title="Denis Zuev on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Denis%20Zuev" type="text/html" rel="related" title="Denis Zuev on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Denis%20Zuev" type="text/html" rel="related" title="Denis Zuev on ISFDB" />
+</entry>

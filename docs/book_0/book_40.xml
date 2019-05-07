@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Garcia Marquez, Gabriel - Doce cuentos peregrinos</title>
+  <id>urn:book:a1008dba-db44-444b-925a-eb23dbd0c6f0</id>
+  <updated>2019-05-07T07:35:53Z</updated>
+  <link href="./book_40.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Garcia Marquez, Gabriel - Doce cuentos peregrinos" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Nacho's library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Nacho's library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../../Desconocido/Garcia%20Marquez%2C%20Gabriel%20-%20Doce%20cuentos%20peregrinos%20%2840%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Desconocido/Garcia%20Marquez%2C%20Gabriel%20-%20Doce%20cuentos%20peregrinos%20%2840%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Desconocido/Garcia%20Marquez%2C%20Gabriel%20-%20Doce%20cuentos%20peregrinos%20%2840%29/Garcia%20Marquez%2C%20Gabriel%20-%20Doce%20cuentos%20per%20-%20Desconocido.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+  <author>
+    <name>Desconocido</name>
+    <uri>../author_0/author_3_Page_1.xml</uri>
+  </author>
+  <published>0101-01-01T00:00:00Z</published>
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+  </content>
+  <link href="../author_0/author_3_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Desconocido" />
+  <link href="http://www.goodreads.com/book/title/Garcia%20Marquez%2C%20Gabriel%20-%20Doce%20cuentos%20peregrinos" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Garcia%20Marquez%2C%20Gabriel%20-%20Doce%20cuentos%20peregrinos" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Garcia%20Marquez%2C%20Gabriel%20-%20Doce%20cuentos%20peregrinos%20Desconocido" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Garcia%20Marquez%2C%20Gabriel%20-%20Doce%20cuentos%20peregrinos&amp;field-author=Desconocido" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Desconocido" type="text/html" rel="related" title="Desconocido on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Desconocido" type="text/html" rel="related" title="Desconocido on Wikipedia" />
+  <link href="http://www.librarything.com/author/Desconocido" type="text/html" rel="related" title="Desconocido on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Desconocido" type="text/html" rel="related" title="Desconocido on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Desconocido" type="text/html" rel="related" title="Desconocido on ISFDB" />
+</entry>

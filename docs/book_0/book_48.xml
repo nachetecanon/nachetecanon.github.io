@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Elasticsearch: A Complete Guide</title>
+  <id>urn:book:66d2d015-fbec-4416-99d2-6a9ce6b57957</id>
+  <updated>2019-05-07T07:35:53Z</updated>
+  <link href="./book_48.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Elasticsearch: A Complete Guide" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Nacho's library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Nacho's library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../../Bharvi%20Dixit/Elasticsearch_%20A%20Complete%20Guide%20%2848%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Bharvi%20Dixit/Elasticsearch_%20A%20Complete%20Guide%20%2848%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Bharvi%20Dixit/Elasticsearch_%20A%20Complete%20Guide%20%2848%29/Elasticsearch_%20A%20Complete%20Guide%20-%20Bharvi%20Dixit.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+  <author>
+    <name>Bharvi Dixit</name>
+    <uri>../author_0/author_24_Page_1.xml</uri>
+  </author>
+  <author>
+    <name>Rafal Kuc</name>
+    <uri>../author_0/author_25_Page_1.xml</uri>
+  </author>
+  <author>
+    <name>Marek Rogozinski</name>
+    <uri>../author_0/author_26_Page_1.xml</uri>
+  </author>
+  <author>
+    <name>Saurabh Chhajed</name>
+    <uri>../author_0/author_27_Page_1.xml</uri>
+  </author>
+  <published>2017-01-31T00:00:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>Packt Publishing</dcterms:publisher>
+  <category term="Lang:en" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Lang:en
+    </p>
+  </content>
+  <link href="../author_0/author_24_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Bharvi Dixit" />
+  <link href="../author_0/author_25_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Rafal Kuc" />
+  <link href="../author_0/author_26_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Marek Rogozinski" />
+  <link href="../author_0/author_27_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Saurabh Chhajed" />
+  <link href="http://www.goodreads.com/book/title/Elasticsearch%3A%20A%20Complete%20Guide" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Elasticsearch%3A%20A%20Complete%20Guide" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Elasticsearch%3A%20A%20Complete%20Guide%20Bharvi%20Dixit" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Elasticsearch%3A%20A%20Complete%20Guide&amp;field-author=Bharvi%20Dixit" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Bharvi%20Dixit" type="text/html" rel="related" title="Bharvi Dixit on Goodreads" />
+  <link href="http://www.goodreads.com/book/author/Rafal%20Kuc" type="text/html" rel="related" title="Rafal Kuc on Goodreads" />
+  <link href="http://www.goodreads.com/book/author/Marek%20Rogozinski" type="text/html" rel="related" title="Marek Rogozinski on Goodreads" />
+  <link href="http://www.goodreads.com/book/author/Saurabh%20Chhajed" type="text/html" rel="related" title="Saurabh Chhajed on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Bharvi%20Dixit" type="text/html" rel="related" title="Bharvi Dixit on Wikipedia" />
+  <link href="http://en.wikipedia.org/wiki/Rafal%20Kuc" type="text/html" rel="related" title="Rafal Kuc on Wikipedia" />
+  <link href="http://en.wikipedia.org/wiki/Marek%20Rogozinski" type="text/html" rel="related" title="Marek Rogozinski on Wikipedia" />
+  <link href="http://en.wikipedia.org/wiki/Saurabh%20Chhajed" type="text/html" rel="related" title="Saurabh Chhajed on Wikipedia" />
+  <link href="http://www.librarything.com/author/DixitBharvi" type="text/html" rel="related" title="Bharvi Dixit on LibraryThing" />
+  <link href="http://www.librarything.com/author/KucRafal" type="text/html" rel="related" title="Rafal Kuc on LibraryThing" />
+  <link href="http://www.librarything.com/author/RogozinskiMarek" type="text/html" rel="related" title="Marek Rogozinski on LibraryThing" />
+  <link href="http://www.librarything.com/author/ChhajedSaurabh" type="text/html" rel="related" title="Saurabh Chhajed on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Bharvi%20Dixit" type="text/html" rel="related" title="Bharvi Dixit on Amazon" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Rafal%20Kuc" type="text/html" rel="related" title="Rafal Kuc on Amazon" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Marek%20Rogozinski" type="text/html" rel="related" title="Marek Rogozinski on Amazon" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Saurabh%20Chhajed" type="text/html" rel="related" title="Saurabh Chhajed on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Bharvi%20Dixit" type="text/html" rel="related" title="Bharvi Dixit on ISFDB" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Rafal%20Kuc" type="text/html" rel="related" title="Rafal Kuc on ISFDB" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Marek%20Rogozinski" type="text/html" rel="related" title="Marek Rogozinski on ISFDB" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Saurabh%20Chhajed" type="text/html" rel="related" title="Saurabh Chhajed on ISFDB" />
+</entry>

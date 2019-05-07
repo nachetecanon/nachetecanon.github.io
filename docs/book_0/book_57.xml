@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>ScalaTutorial</title>
+  <id>urn:book:2ebd268e-804d-4056-961c-7d421cecdc5f</id>
+  <updated>2019-05-07T07:35:54Z</updated>
+  <link href="./book_57.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="ScalaTutorial" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Nacho's library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Nacho's library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../../Desconocido/ScalaTutorial%20%2857%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Desconocido/ScalaTutorial%20%2857%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Desconocido/ScalaTutorial%20%2857%29/ScalaTutorial%20-%20Desconocido.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+  <author>
+    <name>Desconocido</name>
+    <uri>../author_0/author_3_Page_1.xml</uri>
+  </author>
+  <published>2011-05-24T08:30:36Z</published>
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+  </content>
+  <link href="../author_0/author_3_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Desconocido" />
+  <link href="http://www.goodreads.com/book/title/ScalaTutorial" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/ScalaTutorial" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/ScalaTutorial%20Desconocido" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=ScalaTutorial&amp;field-author=Desconocido" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Desconocido" type="text/html" rel="related" title="Desconocido on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Desconocido" type="text/html" rel="related" title="Desconocido on Wikipedia" />
+  <link href="http://www.librarything.com/author/Desconocido" type="text/html" rel="related" title="Desconocido on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Desconocido" type="text/html" rel="related" title="Desconocido on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Desconocido" type="text/html" rel="related" title="Desconocido on ISFDB" />
+</entry>

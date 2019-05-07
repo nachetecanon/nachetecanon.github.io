@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Helen Fielding</title>
+  <id>Calibre2opds:author:4</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./author_4_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Helen Fielding" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Nacho's library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Nacho's library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <entry>
+    <title>Bridget Jones's Diary</title>
+    <id>calibre:book:4</id>
+    <updated>2019-05-07T07:35:54Z</updated>
+    <link href="../../Helen%20Fielding/Bridget%20Jones%27s%20Diary%20%284%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Helen%20Fielding/Bridget%20Jones%27s%20Diary%20%284%29/Bridget%20Jones%27s%20Diary%20-%20Helen%20Fielding.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Helen Fielding</name>
+      <uri>../author_0/author_4_Page_1.xml</uri>
+    </author>
+    <published>2001-06-10T04:34:21Z</published>
+    <link href="../book_0/book_4.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

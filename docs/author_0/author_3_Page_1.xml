@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Desconocido</title>
+  <id>Calibre2opds:author:3</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./author_3_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Desconocido" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Nacho's library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Nacho's library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <entry>
+    <title>9781788992329-LEARN OPENSHIFT</title>
+    <id>calibre:book:67</id>
+    <updated>2019-05-07T07:36:41Z</updated>
+    <link href="../../Desconocido/9781788992329-LEARN%20OPENSHIFT%20%2867%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Desconocido/9781788992329-LEARN%20OPENSHIFT%20%2867%29/9781788992329-LEARN%20OPENSHIFT%20-%20Desconocido.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Desconocido</name>
+      <uri>../author_0/author_3_Page_1.xml</uri>
+    </author>
+    <published>2019-02-20T01:03:22Z</published>
+    <link href="../book_0/book_67.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Addison.Wesley.Enterprise.Integration.Patterns</title>
+    <id>calibre:book:10</id>
+    <updated>2019-05-07T07:35:53Z</updated>
+    <link href="../../Desconocido/Addison.Wesley.Enterprise.Integration.Patterns%20%2810%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Desconocido/Addison.Wesley.Enterprise.Integration.Patterns%20%2810%29/Addison.Wesley.Enterprise.Integration.Patt%20-%20Desconocido.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Desconocido</name>
+      <uri>../author_0/author_3_Page_1.xml</uri>
+    </author>
+    <published>2003-11-03T11:06:34Z</published>
+    <link href="../book_0/book_10.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Building Machine Learning Systems with Python</title>
+    <id>calibre:book:3</id>
+    <updated>2019-05-07T07:35:53Z</updated>
+    <link href="../../Desconocido/Building%20Machine%20Learning%20Systems%20with%20Python%20%283%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Desconocido/Building%20Machine%20Learning%20Systems%20with%20Python%20%283%29/Building%20Machine%20Learning%20Systems%20with%20Pyt%20-%20Desconocido.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Desconocido</name>
+      <uri>../author_0/author_3_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Packt Publishing</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_3.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>DEVOPS WITH KUBERNETES SECOND EDITION</title>
+    <id>calibre:book:16</id>
+    <updated>2019-05-07T07:35:53Z</updated>
+    <link href="../../Desconocido/DEVOPS%20WITH%20KUBERNETES%20SECOND%20EDITION%20%2816%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Desconocido/DEVOPS%20WITH%20KUBERNETES%20SECOND%20EDITION%20%2816%29/DEVOPS%20WITH%20KUBERNETES%20SECOND%20EDITION%20-%20Desconocido.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Desconocido</name>
+      <uri>../author_0/author_3_Page_1.xml</uri>
+    </author>
+    <published>2019-01-29T06:21:22Z</published>
+    <link href="../book_0/book_16.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Doc rust lang org book print html</title>
+    <id>calibre:book:52</id>
+    <updated>2019-05-07T07:35:54Z</updated>
+    <link href="../../Desconocido/doc%20rust%20lang%20org%20book%20print%20html%20%2852%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Desconocido/doc%20rust%20lang%20org%20book%20print%20html%20%2852%29/doc%20rust%20lang%20org%20book%20print%20html%20-%20Desconocido.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Desconocido</name>
+      <uri>../author_0/author_3_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <link href="../book_0/book_52.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Garcia Marquez, Gabriel - Doce cuentos peregrinos</title>
+    <id>calibre:book:40</id>
+    <updated>2019-05-07T07:35:53Z</updated>
+    <link href="../../Desconocido/Garcia%20Marquez%2C%20Gabriel%20-%20Doce%20cuentos%20peregrinos%20%2840%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Desconocido/Garcia%20Marquez%2C%20Gabriel%20-%20Doce%20cuentos%20peregrinos%20%2840%29/Garcia%20Marquez%2C%20Gabriel%20-%20Doce%20cuentos%20per%20-%20Desconocido.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Desconocido</name>
+      <uri>../author_0/author_3_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <link href="../book_0/book_40.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Kanban_Agile_Teams</title>
+    <id>calibre:book:43</id>
+    <updated>2019-05-07T07:35:53Z</updated>
+    <link href="../../Desconocido/Kanban_Agile_Teams%20%2843%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Desconocido/Kanban_Agile_Teams%20%2843%29/Kanban_Agile_Teams%20-%20Desconocido.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Desconocido</name>
+      <uri>../author_0/author_3_Page_1.xml</uri>
+    </author>
+    <published>2011-01-20T08:37:03Z</published>
+    <link href="../book_0/book_43.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Kubernetes-Microservices with Docker</title>
+    <id>calibre:book:35</id>
+    <updated>2019-05-07T07:35:54Z</updated>
+    <link href="../../Desconocido/Kubernetes-Microservices%20with%20Docker%20%2835%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Desconocido/Kubernetes-Microservices%20with%20Docker%20%2835%29/Kubernetes-Microservices%20with%20Docker%20-%20Desconocido.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Desconocido</name>
+      <uri>../author_0/author_3_Page_1.xml</uri>
+    </author>
+    <published>2016-04-04T10:49:26Z</published>
+    <link href="../book_0/book_35.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Mastering Gradle</title>
+    <id>calibre:book:32</id>
+    <updated>2019-05-07T07:35:54Z</updated>
+    <link href="../../Desconocido/Mastering%20Gradle%20%2832%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Desconocido/Mastering%20Gradle%20%2832%29/Mastering%20Gradle%20-%20Desconocido.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Desconocido</name>
+      <uri>../author_0/author_3_Page_1.xml</uri>
+    </author>
+    <published>2015-07-30T11:06:16Z</published>
+    <link href="../book_0/book_32.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>MASTERING KUBERNETES SECOND EDITION-978178</title>
+    <id>calibre:book:26</id>
+    <updated>2019-05-07T07:35:54Z</updated>
+    <link href="../../Desconocido/MASTERING%20KUBERNETES%20SECOND%20EDITION-978178%20%2826%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Desconocido/MASTERING%20KUBERNETES%20SECOND%20EDITION-978178%20%2826%29/MASTERING%20KUBERNETES%20SECOND%20EDITION-978178%20-%20Desconocido.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Desconocido</name>
+      <uri>../author_0/author_3_Page_1.xml</uri>
+    </author>
+    <published>2018-04-26T05:06:29Z</published>
+    <link href="../book_0/book_26.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>OpenShift for Developers</title>
+    <id>calibre:book:66</id>
+    <updated>2019-05-07T07:36:23Z</updated>
+    <link href="../../Desconocido/OpenShift%20for%20Developers%20%2866%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Desconocido/OpenShift%20for%20Developers%20%2866%29/OpenShift%20for%20Developers%20-%20Desconocido.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Desconocido</name>
+      <uri>../author_0/author_3_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <link href="../book_0/book_66.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>OpenShift in Action</title>
+    <id>calibre:book:24</id>
+    <updated>2019-05-07T07:35:54Z</updated>
+    <link href="../../Desconocido/OpenShift%20in%20Action%20%2824%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Desconocido/OpenShift%20in%20Action%20%2824%29/OpenShift%20in%20Action%20-%20Desconocido.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Desconocido</name>
+      <uri>../author_0/author_3_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <category term="www.allitebooks.com" />
+    <link href="../book_0/book_24.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Pro React</title>
+    <id>calibre:book:64</id>
+    <updated>2019-05-07T07:35:54Z</updated>
+    <link href="../../Desconocido/Pro%20React%20%2864%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Desconocido/Pro%20React%20%2864%29/Pro%20React%20-%20Desconocido.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Desconocido</name>
+      <uri>../author_0/author_3_Page_1.xml</uri>
+    </author>
+    <published>2015-12-28T10:32:34Z</published>
+    <category term="www.it-ebooks.info" />
+    <link href="../book_0/book_64.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Release It! Design and Deploy Production-R</title>
+    <id>calibre:book:61</id>
+    <updated>2019-05-07T07:35:54Z</updated>
+    <link href="../../Desconocido/Release%20It%21%20Design%20and%20Deploy%20Production-R%20%2861%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Desconocido/Release%20It%21%20Design%20and%20Deploy%20Production-R%20%2861%29/Release%20It%21%20Design%20and%20Deploy%20Production-R%20-%20Desconocido.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Desconocido</name>
+      <uri>../author_0/author_3_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <link href="../book_0/book_61.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>ScalaByExample</title>
+    <id>calibre:book:59</id>
+    <updated>2019-05-07T07:35:54Z</updated>
+    <link href="../../Desconocido/ScalaByExample%20%2859%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Desconocido/ScalaByExample%20%2859%29/ScalaByExample%20-%20Desconocido.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Desconocido</name>
+      <uri>../author_0/author_3_Page_1.xml</uri>
+    </author>
+    <published>2011-05-24T08:29:55Z</published>
+    <link href="../book_0/book_59.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>ScalaTutorial</title>
+    <id>calibre:book:57</id>
+    <updated>2019-05-07T07:35:54Z</updated>
+    <link href="../../Desconocido/ScalaTutorial%20%2857%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Desconocido/ScalaTutorial%20%2857%29/ScalaTutorial%20-%20Desconocido.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Desconocido</name>
+      <uri>../author_0/author_3_Page_1.xml</uri>
+    </author>
+    <published>2011-05-24T08:30:36Z</published>
+    <link href="../book_0/book_57.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

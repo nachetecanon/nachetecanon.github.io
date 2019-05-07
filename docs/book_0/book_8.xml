@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>After Dark</title>
+  <id>urn:book:1691207e-f28f-4a00-a33e-e8cae6543b67</id>
+  <updated>2019-05-07T07:35:54Z</updated>
+  <link href="./book_8.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="After Dark" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Nacho's library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Nacho's library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../../Haruki%20Murakami/After%20Dark%20%288%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Haruki%20Murakami/After%20Dark%20%288%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Haruki%20Murakami/After%20Dark%20%288%29/After%20Dark%20-%20Haruki%20Murakami.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+  <author>
+    <name>Haruki Murakami</name>
+    <uri>../author_0/author_1_Page_1.xml</uri>
+  </author>
+  <published>2012-07-07T11:42:32Z</published>
+  <dcterms:language>es</dcterms:language>
+  <category term="Lang:es" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Lang:es
+    </p>
+  </content>
+  <link href="../author_0/author_1_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Haruki Murakami" />
+  <link href="http://www.goodreads.com/book/title/After%20Dark" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/After%20Dark" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/After%20Dark%20Haruki%20Murakami" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=After%20Dark&amp;field-author=Haruki%20Murakami" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Haruki%20Murakami" type="text/html" rel="related" title="Haruki Murakami on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Haruki%20Murakami" type="text/html" rel="related" title="Haruki Murakami on Wikipedia" />
+  <link href="http://www.librarything.com/author/MurakamiHaruki" type="text/html" rel="related" title="Haruki Murakami on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Haruki%20Murakami" type="text/html" rel="related" title="Haruki Murakami on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Haruki%20Murakami" type="text/html" rel="related" title="Haruki Murakami on ISFDB" />
+</entry>

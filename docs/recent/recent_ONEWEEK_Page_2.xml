@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Previous week</title>
+  <id>Calibre2opds:recent:ONEWEEK</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./recent_ONEWEEK_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Previous week" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Nacho's library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Nacho's library" />
+  <link href="./recent_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Recent additions" />
+  <link href="../recent/recent_ONEWEEK_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (3 of 3)" />
+  <entry>
+    <title>Kubernetes-Microservices with Docker [May 6, 2019]</title>
+    <id>calibre:book:35</id>
+    <updated>2019-05-07T07:35:54Z</updated>
+    <link href="../../Desconocido/Kubernetes-Microservices%20with%20Docker%20%2835%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Desconocido/Kubernetes-Microservices%20with%20Docker%20%2835%29/Kubernetes-Microservices%20with%20Docker%20-%20Desconocido.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Desconocido</name>
+      <uri>../author_0/author_3_Page_1.xml</uri>
+    </author>
+    <published>2016-04-04T10:49:26Z</published>
+    <link href="../book_0/book_35.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Kafka en la orilla [May 6, 2019]</title>
+    <id>calibre:book:36</id>
+    <updated>2019-05-07T07:35:54Z</updated>
+    <link href="../../Haruki%20Murakami/Kafka%20en%20la%20orilla%20%2836%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Haruki%20Murakami/Kafka%20en%20la%20orilla%20%2836%29/Kafka%20en%20la%20orilla%20-%20Haruki%20Murakami.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Haruki Murakami</name>
+      <uri>../author_0/author_1_Page_1.xml</uri>
+    </author>
+    <published>2012-07-07T11:46:37Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Lang:es" />
+    <link href="../book_0/book_36.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Java Performance: The Definitive Guide [May 6, 2019]</title>
+    <id>calibre:book:37</id>
+    <updated>2019-05-07T07:35:54Z</updated>
+    <link href="../../Scott%20Oaks/Java%20Performance_%20The%20Definitive%20Guide%20%2837%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Scott%20Oaks/Java%20Performance_%20The%20Definitive%20Guide%20%2837%29/Java%20Performance_%20The%20Definitive%20Guide%20-%20Scott%20Oaks.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Scott Oaks</name>
+      <uri>../author_0/author_17_Page_1.xml</uri>
+    </author>
+    <published>2014-04-09T02:03:44Z</published>
+    <link href="../book_0/book_37.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Mastering Gradle [May 6, 2019]</title>
+    <id>calibre:book:32</id>
+    <updated>2019-05-07T07:35:54Z</updated>
+    <link href="../../Desconocido/Mastering%20Gradle%20%2832%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Desconocido/Mastering%20Gradle%20%2832%29/Mastering%20Gradle%20-%20Desconocido.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Desconocido</name>
+      <uri>../author_0/author_3_Page_1.xml</uri>
+    </author>
+    <published>2015-07-30T11:06:16Z</published>
+    <link href="../book_0/book_32.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Kotlin in Action [May 6, 2019]</title>
+    <id>calibre:book:33</id>
+    <updated>2019-05-07T07:35:54Z</updated>
+    <link href="../../Dmitry%20Jemerov%20Svetlana%20Isakova/Kotlin%20in%20Action%20%2833%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Dmitry%20Jemerov%20Svetlana%20Isakova/Kotlin%20in%20Action%20%2833%29/Kotlin%20in%20Action%20-%20Dmitry%20Jemerov%20Svetlana%20Isakova.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Dmitry Jemerov Svetlana Isakova</name>
+      <uri>../author_0/author_15_Page_1.xml</uri>
+    </author>
+    <published>2017-02-15T08:49:45Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Manning Publications</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>Summary</summary>
+    <link href="../book_0/book_33.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Kitchen [May 6, 2019]</title>
+    <id>calibre:book:34</id>
+    <updated>2019-05-07T07:35:53Z</updated>
+    <link href="../../Banana%20Yoshimoto/Kitchen%20%2834%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Banana%20Yoshimoto/Kitchen%20%2834%29/Kitchen%20-%20Banana%20Yoshimoto.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Banana Yoshimoto</name>
+      <uri>../author_0/author_16_Page_1.xml</uri>
+    </author>
+    <published>1988-09-10T10:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>TUSQUETS EDITORES</dcterms:publisher>
+    <category term="Drama" />
+    <category term="Relato" />
+    <category term="Lang:es" />
+    <summary>Cuando se le muere la abuela, la jovencísima Mikage queda absolutamente sola en una casa demasiado grande y se refugia en la cocina, pues sólo en ella se siente a salvo («El lugar donde mejor se duerme es en la nevera», confiesa). Pero un día «ocurre...</summary>
+    <link href="../book_0/book_34.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Las intermitencias de la muerte [May 6, 2019]</title>
+    <id>calibre:book:28</id>
+    <updated>2019-05-07T07:35:54Z</updated>
+    <link href="../../Jose%20Saramago/Las%20intermitencias%20de%20la%20muerte%20%2828%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jose%20Saramago/Las%20intermitencias%20de%20la%20muerte%20%2828%29/Las%20intermitencias%20de%20la%20muerte%20-%20Jose%20Saramago.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>José Saramago</name>
+      <uri>../author_0/author_12_Page_1.xml</uri>
+    </author>
+    <published>2006-11-14T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Distribuidora y Editora Aguilar, Altea, Taurus, Alfaguara</dcterms:publisher>
+    <category term="sci_history" />
+    <category term="Lang:es" />
+    <link href="../book_0/book_28.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La cuarta K [May 6, 2019]</title>
+    <id>calibre:book:29</id>
+    <updated>2019-05-07T07:35:54Z</updated>
+    <link href="../../Mario%20Puzo/La%20cuarta%20K%20%2829%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Mario%20Puzo/La%20cuarta%20K%20%2829%29/La%20cuarta%20K%20-%20Mario%20Puzo.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Mario Puzo</name>
+      <uri>../author_0/author_9_Page_1.xml</uri>
+    </author>
+    <published>2009-11-08T11:14:14Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="General Interest" />
+    <category term="Lang:es" />
+    <link href="../book_0/book_29.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Las Baladas Del Ajo [May 6, 2019]</title>
+    <id>calibre:book:30</id>
+    <updated>2019-05-07T07:35:54Z</updated>
+    <link href="../../Mo%20Yan/Las%20Baladas%20Del%20Ajo%20%2830%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Mo%20Yan/Las%20Baladas%20Del%20Ajo%20%2830%29/Las%20Baladas%20Del%20Ajo%20-%20Mo%20Yan.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Mo Yan</name>
+      <uri>../author_0/author_13_Page_1.xml</uri>
+    </author>
+    <published>1995-01-12T00:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Lang:es" />
+    <link href="../book_0/book_30.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La ciudad de los prodigios [May 6, 2019]</title>
+    <id>calibre:book:31</id>
+    <updated>2019-05-07T07:35:54Z</updated>
+    <link href="../../Eduardo%20mendoza/La%20ciudad%20de%20los%20prodigios%20%2831%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Eduardo%20mendoza/La%20ciudad%20de%20los%20prodigios%20%2831%29/La%20ciudad%20de%20los%20prodigios%20-%20Eduardo%20mendoza.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Eduardo mendoza</name>
+      <uri>../author_0/author_14_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <link href="../book_0/book_31.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Los siete puentes [May 6, 2019]</title>
+    <id>calibre:book:25</id>
+    <updated>2019-05-07T07:35:54Z</updated>
+    <link href="../../Yukio%20Mishima/Los%20siete%20puentes%20%2825%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Yukio%20Mishima/Los%20siete%20puentes%20%2825%29/Los%20siete%20puentes%20-%20Yukio%20Mishima.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Yukio Mishima</name>
+      <uri>../author_0/author_11_Page_1.xml</uri>
+    </author>
+    <published>2010-11-19T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="japones" />
+    <category term="Lang:es" />
+    <link href="../book_0/book_25.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>MASTERING KUBERNETES SECOND EDITION-978178 [May 6, 2019]</title>
+    <id>calibre:book:26</id>
+    <updated>2019-05-07T07:35:54Z</updated>
+    <link href="../../Desconocido/MASTERING%20KUBERNETES%20SECOND%20EDITION-978178%20%2826%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Desconocido/MASTERING%20KUBERNETES%20SECOND%20EDITION-978178%20%2826%29/MASTERING%20KUBERNETES%20SECOND%20EDITION-978178%20-%20Desconocido.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Desconocido</name>
+      <uri>../author_0/author_3_Page_1.xml</uri>
+    </author>
+    <published>2018-04-26T05:06:29Z</published>
+    <link href="../book_0/book_26.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Los Borgia [May 6, 2019]</title>
+    <id>calibre:book:27</id>
+    <updated>2019-05-07T07:35:54Z</updated>
+    <link href="../../Mario%20Puzo/Los%20Borgia%20%2827%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Mario%20Puzo/Los%20Borgia%20%2827%29/Los%20Borgia%20-%20Mario%20Puzo.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Mario Puzo</name>
+      <uri>../author_0/author_9_Page_1.xml</uri>
+    </author>
+    <published>2009-11-08T10:57:58Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="General Interest" />
+    <category term="Lang:es" />
+    <link href="../book_0/book_27.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Nieve en primavera [May 6, 2019]</title>
+    <id>calibre:book:21</id>
+    <updated>2019-05-07T07:35:54Z</updated>
+    <link href="../../Yukio%20Mishima/Nieve%20en%20primavera%20%2821%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Yukio%20Mishima/Nieve%20en%20primavera%20%2821%29/Nieve%20en%20primavera%20-%20Yukio%20Mishima.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Yukio Mishima</name>
+      <uri>../author_0/author_11_Page_1.xml</uri>
+    </author>
+    <published>2010-01-07T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Lang:es" />
+    <summary>Considerada como el testamento ideológico y literario de Yukio Mishima (1925-1970), "El mar de la fertilidad" es una tetralogía en la que el autor abarca a través de su inconfundible mundo narrativo la evolución del Japón desde comienzos del siglo XX...</summary>
+    <link href="../book_0/book_21.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Mishima, Yukio [May 6, 2019]</title>
+    <id>calibre:book:22</id>
+    <updated>2019-05-07T07:35:54Z</updated>
+    <link href="../../Yukio%20Mishima/Mishima%2C%20Yukio%20%2822%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Yukio%20Mishima/Mishima%2C%20Yukio%20%2822%29/Mishima%2C%20Yukio%20-%20Yukio%20Mishima.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Yukio Mishima</name>
+      <uri>../author_0/author_11_Page_1.xml</uri>
+    </author>
+    <published>2011-01-10T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Lang:es" />
+    <link href="../book_0/book_22.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Memorial del convento [May 6, 2019]</title>
+    <id>calibre:book:23</id>
+    <updated>2019-05-07T07:35:54Z</updated>
+    <link href="../../Jose%20Saramago/Memorial%20del%20convento%20%2823%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jose%20Saramago/Memorial%20del%20convento%20%2823%29/Memorial%20del%20convento%20-%20Jose%20Saramago.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>José Saramago</name>
+      <uri>../author_0/author_12_Page_1.xml</uri>
+    </author>
+    <published>2010-11-30T00:03:07Z</published>
+    <link href="../book_0/book_23.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>OpenShift in Action [May 6, 2019]</title>
+    <id>calibre:book:24</id>
+    <updated>2019-05-07T07:35:54Z</updated>
+    <link href="../../Desconocido/OpenShift%20in%20Action%20%2824%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Desconocido/OpenShift%20in%20Action%20%2824%29/OpenShift%20in%20Action%20-%20Desconocido.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Desconocido</name>
+      <uri>../author_0/author_3_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <category term="www.allitebooks.com" />
+    <link href="../book_0/book_24.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Oscar Wilde - El Amigo Fiel [May 6, 2019]</title>
+    <id>calibre:book:18</id>
+    <updated>2019-05-07T07:35:54Z</updated>
+    <link href="../../Oscar%20Wilde/Oscar%20Wilde%20-%20El%20Amigo%20Fiel%20%2818%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Oscar%20Wilde/Oscar%20Wilde%20-%20El%20Amigo%20Fiel%20%2818%29/Oscar%20Wilde%20-%20El%20Amigo%20Fiel%20-%20Oscar%20Wilde.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Oscar Wilde</name>
+      <uri>../author_0/author_8_Page_1.xml</uri>
+    </author>
+    <published>2002-09-21T03:23:34Z</published>
+    <category term="eBooket" />
+    <summary>eBooket</summary>
+    <link href="../book_0/book_18.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Omerta [May 6, 2019]</title>
+    <id>calibre:book:19</id>
+    <updated>2019-05-07T07:35:54Z</updated>
+    <link href="../../Mario%20Puzo/Omerta%20%2819%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Mario%20Puzo/Omerta%20%2819%29/Omerta%20-%20Mario%20Puzo.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Mario Puzo</name>
+      <uri>../author_0/author_9_Page_1.xml</uri>
+    </author>
+    <published>2009-11-08T11:14:15Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="General Interest" />
+    <category term="Lang:es" />
+    <link href="../book_0/book_19.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Ojos de perro azul [May 6, 2019]</title>
+    <id>calibre:book:20</id>
+    <updated>2019-05-07T07:35:54Z</updated>
+    <link href="../../Gabriel%20Garcia%20Marquez/Ojos%20de%20perro%20azul%20%2820%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Gabriel%20Garcia%20Marquez/Ojos%20de%20perro%20azul%20%2820%29/Ojos%20de%20perro%20azul%20-%20Gabriel%20Garcia%20Marquez.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Gabriel García Márquez</name>
+      <uri>../author_0/author_10_Page_1.xml</uri>
+    </author>
+    <published>2010-10-01T05:33:08Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Sudamericana</dcterms:publisher>
+    <category term="Lang:es" />
+    <link href="../book_0/book_20.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Oscar Wilde - El Insigne Cohete [May 6, 2019]</title>
+    <id>calibre:book:15</id>
+    <updated>2019-05-07T07:35:54Z</updated>
+    <link href="../../Oscar%20Wilde/Oscar%20Wilde%20-%20El%20Insigne%20Cohete%20%2815%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Oscar%20Wilde/Oscar%20Wilde%20-%20El%20Insigne%20Cohete%20%2815%29/Oscar%20Wilde%20-%20El%20Insigne%20Cohete%20-%20Oscar%20Wilde.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Oscar Wilde</name>
+      <uri>../author_0/author_8_Page_1.xml</uri>
+    </author>
+    <published>2003-09-08T10:06:36Z</published>
+    <link href="../book_0/book_15.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>DEVOPS WITH KUBERNETES SECOND EDITION [May 6, 2019]</title>
+    <id>calibre:book:16</id>
+    <updated>2019-05-07T07:35:53Z</updated>
+    <link href="../../Desconocido/DEVOPS%20WITH%20KUBERNETES%20SECOND%20EDITION%20%2816%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Desconocido/DEVOPS%20WITH%20KUBERNETES%20SECOND%20EDITION%20%2816%29/DEVOPS%20WITH%20KUBERNETES%20SECOND%20EDITION%20-%20Desconocido.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Desconocido</name>
+      <uri>../author_0/author_3_Page_1.xml</uri>
+    </author>
+    <published>2019-01-29T06:21:22Z</published>
+    <link href="../book_0/book_16.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Oscar Wilde - El Fantasma de Canterville [May 6, 2019]</title>
+    <id>calibre:book:17</id>
+    <updated>2019-05-07T07:35:54Z</updated>
+    <link href="../../Oscar%20Wilde/Oscar%20Wilde%20-%20El%20Fantasma%20de%20Canterville%20%2817%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Oscar%20Wilde/Oscar%20Wilde%20-%20El%20Fantasma%20de%20Canterville%20%2817%29/Oscar%20Wilde%20-%20El%20Fantasma%20de%20Canterville%20-%20Oscar%20Wilde.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Oscar Wilde</name>
+      <uri>../author_0/author_8_Page_1.xml</uri>
+    </author>
+    <published>2001-11-11T09:30:48Z</published>
+    <category term="eBooket" />
+    <summary>eBooket</summary>
+    <link href="../book_0/book_17.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>DevOps with Kubernetes, Second Edition [May 6, 2019]</title>
+    <id>calibre:book:13</id>
+    <updated>2019-05-07T07:35:54Z</updated>
+    <link href="../../Hideto%20Saito/DevOps%20with%20Kubernetes%2C%20Second%20Edition%20%2813%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Hideto%20Saito/DevOps%20with%20Kubernetes%2C%20Second%20Edition%20%2813%29/DevOps%20with%20Kubernetes%2C%20Second%20Edition%20-%20Hideto%20Saito.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Hideto Saito</name>
+      <uri>../author_0/author_6_Page_1.xml</uri>
+    </author>
+    <published>2019-01-29T07:06:12Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Packt Publishing</dcterms:publisher>
+    <category term="COM091000 - COMPUTERS / Cloud Computing" />
+    <category term="COM088000 - COMPUTERS / System Administration / General" />
+    <category term="COM088010 - COMPUTERS / System Administration / Linux and UNIX Administration" />
+    <category term="Lang:en" />
+    <summary>This book will guide you from container basic concepts to orchestrating containerized applications in Kubernetes. You’ll learn about the Kubernetes basic architecture, components, resources, admission control, and extensions. We’ll show you how to ut...</summary>
+    <link href="../book_0/book_13.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Pragmatic Version Control [May 6, 2019]</title>
+    <id>calibre:book:14</id>
+    <updated>2019-05-07T07:35:54Z</updated>
+    <link href="../../The%20Pragmatic%20Programmers%2C%20LLC%20%28%23nx000x%29/Pragmatic%20Version%20Control%20%2814%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../The%20Pragmatic%20Programmers%2C%20LLC%20%28%23nx000x%29/Pragmatic%20Version%20Control%20%2814%29/Pragmatic%20Version%20Control%20-%20The%20Pragmatic%20Programmers%2C%20LLC%20%28%23nx000x%29.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>The Pragmatic Programmers, LLC (#nx000x)</name>
+      <uri>../author_0/author_7_Page_1.xml</uri>
+    </author>
+    <published>2009-04-20T07:28:04Z</published>
+    <link href="../book_0/book_14.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <link href="../recent/recent_ONEWEEK_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (1 of 3)" />
+</feed>

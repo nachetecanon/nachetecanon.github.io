@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Novels</title>
+  <id>Calibre2opds:taglist:1</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./tag_1_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Novels" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Nacho's library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Nacho's library" />
+  <link href="../taglist/taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tags" />
+  <entry>
+    <title>A sangre fria</title>
+    <id>calibre:book:2</id>
+    <updated>2019-05-07T07:35:54Z</updated>
+    <link href="../../Truman%20Capote/A%20sangre%20fria%20%282%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Truman%20Capote/A%20sangre%20fria%20%282%29/A%20sangre%20fria%20-%20Truman%20Capote.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Truman Capote</name>
+      <uri>../author_0/author_2_Page_1.xml</uri>
+    </author>
+    <published>2010-11-06T02:03:36Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="Novels" />
+    <category term="Lang:es" />
+    <summary>El pueblo de Holcomb está en las elevadas llanuras trigueras del oeste de Kansas, una zona solitaria que otros habitantes de Kansas llaman "allá"... A partir de esta locación precisa, Truman Capote captura al lector en una historia apasionante e inau...</summary>
+    <link href="../book_0/book_2.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

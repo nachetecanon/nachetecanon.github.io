@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Alicia a través del espejo</title>
+  <id>urn:book:8f04d546-9fa7-42d8-b68c-aa1ca26c3a13</id>
+  <updated>2019-05-07T07:35:54Z</updated>
+  <link href="./book_7.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Alicia a través del espejo" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Nacho's library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Nacho's library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../../Lewis%20Carroll/Alicia%20a%20traves%20del%20espejo%20%287%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Lewis%20Carroll/Alicia%20a%20traves%20del%20espejo%20%287%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Lewis%20Carroll/Alicia%20a%20traves%20del%20espejo%20%287%29/Alicia%20a%20traves%20del%20espejo%20-%20Lewis%20Carroll.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+  <author>
+    <name>Lewis Carroll</name>
+    <uri>../author_0/author_5_Page_1.xml</uri>
+  </author>
+  <published>2010-11-05T11:00:00Z</published>
+  <dcterms:language>es</dcterms:language>
+  <category term="Fantasía" />
+  <category term="Lang:es" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Fantasía, Lang:es
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="">
+      <strong>Alicia a través del espejo</strong>
+      es un cuento
+    infantil escrito por Lewis Carroll en 1871. Es
+    la secuela de 
+      <i>Las aventuras de Alicia en el país de las
+    maravillas</i>
+       (aunque no hace referencias a lo que ocurre
+    en ese libro). Muchas cosas de las que acontecen en el libro
+    parecen, metafóricamente, reflejadas en unespejo.
+    </p>
+    <p xmlns="">Mientras que el primer libro juega
+    con cartas vivientes, en esta ocasión Alicia se
+    ve envuelta en una loca partida de ajedrez. Carroll nos
+    proporciona una lista de los movimientos que en ella se
+    producen, aunque algunos de ellos van en contra de las reglas
+    del juego, como si fuera un niño pequeño el que
+    estuviera jugando.</p>
+    <p xmlns="">
+      No aparecen personajes exactos de 
+      <i>Alicia en el país de las maravillas</i>
+      , sólo se
+    toma la imagen de El Sombrerero
+    Loco como Hatta (que su pronunciación en
+    inglés suena muy parecido a 
+      <i>Hatter</i>
+      , sombrerero) y La Liebre de
+    Marzo como Haiga (que su pronunciación en
+    inglés suena como a 
+      <i>Hare</i>
+      , liebre) cuya aparición se hace presente
+    en el capítulo séptimo (El León y el Unicornio),
+    un personaje diferente en esta secuela.
+    </p>
+  </content>
+  <link href="../author_0/author_5_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Lewis Carroll" />
+  <link href="http://www.goodreads.com/book/title/Alicia%20a%20trav%C3%A9s%20del%20espejo" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Alicia%20a%20trav%C3%A9s%20del%20espejo" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Alicia%20a%20trav%C3%A9s%20del%20espejo%20Lewis%20Carroll" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Alicia%20a%20trav%C3%A9s%20del%20espejo&amp;field-author=Lewis%20Carroll" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Lewis%20Carroll" type="text/html" rel="related" title="Lewis Carroll on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Lewis%20Carroll" type="text/html" rel="related" title="Lewis Carroll on Wikipedia" />
+  <link href="http://www.librarything.com/author/CarrollLewis" type="text/html" rel="related" title="Lewis Carroll on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Lewis%20Carroll" type="text/html" rel="related" title="Lewis Carroll on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Lewis%20Carroll" type="text/html" rel="related" title="Lewis Carroll on ISFDB" />
+</entry>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>José Saramago</title>
+  <id>Calibre2opds:author:12</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./author_12_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="José Saramago" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Nacho's library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Nacho's library" />
+  <link href="../authorlist/authorlist_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <entry>
+    <title>Ensayo sobre la lucidez</title>
+    <id>calibre:book:42</id>
+    <updated>2019-05-07T07:35:54Z</updated>
+    <link href="../../Jose%20Saramago/Ensayo%20sobre%20la%20lucidez%20%2842%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jose%20Saramago/Ensayo%20sobre%20la%20lucidez%20%2842%29/Ensayo%20sobre%20la%20lucidez%20-%20Jose%20Saramago.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>José Saramago</name>
+      <uri>../author_0/author_12_Page_1.xml</uri>
+    </author>
+    <published>2009-12-12T09:22:43Z</published>
+    <dcterms:language>es</dcterms:language>
+    <category term="General Interest" />
+    <category term="Lang:es" />
+    <link href="../book_0/book_42.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Las intermitencias de la muerte</title>
+    <id>calibre:book:28</id>
+    <updated>2019-05-07T07:35:54Z</updated>
+    <link href="../../Jose%20Saramago/Las%20intermitencias%20de%20la%20muerte%20%2828%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jose%20Saramago/Las%20intermitencias%20de%20la%20muerte%20%2828%29/Las%20intermitencias%20de%20la%20muerte%20-%20Jose%20Saramago.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>José Saramago</name>
+      <uri>../author_0/author_12_Page_1.xml</uri>
+    </author>
+    <published>2006-11-14T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Distribuidora y Editora Aguilar, Altea, Taurus, Alfaguara</dcterms:publisher>
+    <category term="sci_history" />
+    <category term="Lang:es" />
+    <link href="../book_0/book_28.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Memorial del convento</title>
+    <id>calibre:book:23</id>
+    <updated>2019-05-07T07:35:54Z</updated>
+    <link href="../../Jose%20Saramago/Memorial%20del%20convento%20%2823%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jose%20Saramago/Memorial%20del%20convento%20%2823%29/Memorial%20del%20convento%20-%20Jose%20Saramago.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>José Saramago</name>
+      <uri>../author_0/author_12_Page_1.xml</uri>
+    </author>
+    <published>2010-11-30T00:03:07Z</published>
+    <link href="../book_0/book_23.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

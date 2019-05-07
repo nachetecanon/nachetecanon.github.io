@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Un Manual para Ser Niño</title>
+  <id>urn:book:c4c3f932-2b55-4f06-9046-10f3d0f93765</id>
+  <updated>2019-05-07T07:35:54Z</updated>
+  <link href="./book_53.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Un Manual para Ser Niño" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Nacho's library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Nacho's library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../../Gabriel%20Garcia%20Marquez/Un%20Manual%20para%20Ser%20Nino%20%2853%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Gabriel%20Garcia%20Marquez/Un%20Manual%20para%20Ser%20Nino%20%2853%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Gabriel%20Garcia%20Marquez/Un%20Manual%20para%20Ser%20Nino%20%2853%29/Un%20Manual%20para%20Ser%20Nino%20-%20Gabriel%20Garcia%20Marquez.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+  <author>
+    <name>Gabriel García Márquez</name>
+    <uri>../author_0/author_10_Page_1.xml</uri>
+  </author>
+  <published>0101-01-01T00:00:00Z</published>
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+  </content>
+  <link href="../author_0/author_10_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Gabriel García Márquez" />
+  <link href="http://www.goodreads.com/book/title/Un%20Manual%20para%20Ser%20Ni%C3%B1o" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Un%20Manual%20para%20Ser%20Ni%C3%B1o" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Un%20Manual%20para%20Ser%20Ni%C3%B1o%20Gabriel%20Garc%C3%ADa%20M%C3%A1rquez" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Un%20Manual%20para%20Ser%20Ni%C3%B1o&amp;field-author=Gabriel%20Garc%C3%ADa%20M%C3%A1rquez" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Gabriel%20Garc%C3%ADa%20M%C3%A1rquez" type="text/html" rel="related" title="Gabriel García Márquez on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Gabriel%20Garc%C3%ADa%20M%C3%A1rquez" type="text/html" rel="related" title="Gabriel García Márquez on Wikipedia" />
+  <link href="http://www.librarything.com/author/M%C3%A1rquezGabrielGarc%C3%ADa" type="text/html" rel="related" title="Gabriel García Márquez on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Gabriel%20Garc%C3%ADa%20M%C3%A1rquez" type="text/html" rel="related" title="Gabriel García Márquez on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Gabriel%20Garc%C3%ADa%20M%C3%A1rquez" type="text/html" rel="related" title="Gabriel García Márquez on ISFDB" />
+</entry>

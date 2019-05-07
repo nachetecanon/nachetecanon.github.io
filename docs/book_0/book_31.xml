@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>La ciudad de los prodigios</title>
+  <id>urn:book:c89798de-dd47-4f7c-9338-0b1dd78bd44c</id>
+  <updated>2019-05-07T07:35:54Z</updated>
+  <link href="./book_31.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="La ciudad de los prodigios" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Nacho's library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Nacho's library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../../Eduardo%20mendoza/La%20ciudad%20de%20los%20prodigios%20%2831%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Eduardo%20mendoza/La%20ciudad%20de%20los%20prodigios%20%2831%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Eduardo%20mendoza/La%20ciudad%20de%20los%20prodigios%20%2831%29/La%20ciudad%20de%20los%20prodigios%20-%20Eduardo%20mendoza.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+  <author>
+    <name>Eduardo mendoza</name>
+    <uri>../author_0/author_14_Page_1.xml</uri>
+  </author>
+  <published>0101-01-01T00:00:00Z</published>
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+  </content>
+  <link href="../author_0/author_14_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Eduardo mendoza" />
+  <link href="http://www.goodreads.com/book/title/La%20ciudad%20de%20los%20prodigios" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/La%20ciudad%20de%20los%20prodigios" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/La%20ciudad%20de%20los%20prodigios%20Eduardo%20mendoza" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=La%20ciudad%20de%20los%20prodigios&amp;field-author=Eduardo%20mendoza" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Eduardo%20mendoza" type="text/html" rel="related" title="Eduardo mendoza on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Eduardo%20mendoza" type="text/html" rel="related" title="Eduardo mendoza on Wikipedia" />
+  <link href="http://www.librarything.com/author/mendozaEduardo" type="text/html" rel="related" title="Eduardo mendoza on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Eduardo%20mendoza" type="text/html" rel="related" title="Eduardo mendoza on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Eduardo%20mendoza" type="text/html" rel="related" title="Eduardo mendoza on ISFDB" />
+</entry>

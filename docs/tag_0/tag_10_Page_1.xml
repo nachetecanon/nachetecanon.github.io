@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>sci_history</title>
+  <id>Calibre2opds:taglist:10</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./tag_10_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="sci_history" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Nacho's library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Nacho's library" />
+  <link href="../taglist/taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tags" />
+  <entry>
+    <title>Las intermitencias de la muerte</title>
+    <id>calibre:book:28</id>
+    <updated>2019-05-07T07:35:54Z</updated>
+    <link href="../../Jose%20Saramago/Las%20intermitencias%20de%20la%20muerte%20%2828%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jose%20Saramago/Las%20intermitencias%20de%20la%20muerte%20%2828%29/Las%20intermitencias%20de%20la%20muerte%20-%20Jose%20Saramago.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>José Saramago</name>
+      <uri>../author_0/author_12_Page_1.xml</uri>
+    </author>
+    <published>2006-11-14T11:00:00Z</published>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:publisher>Distribuidora y Editora Aguilar, Altea, Taurus, Alfaguara</dcterms:publisher>
+    <category term="sci_history" />
+    <category term="Lang:es" />
+    <link href="../book_0/book_28.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

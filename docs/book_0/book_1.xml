@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>1Q84</title>
+  <id>urn:book:dc9f52fb-4b16-4727-a693-6fbbc07de312</id>
+  <updated>2019-05-07T07:35:54Z</updated>
+  <link href="./book_1.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="1Q84" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Nacho's library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Nacho's library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../../Haruki%20Murakami/1Q84%20%281%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Haruki%20Murakami/1Q84%20%281%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Haruki%20Murakami/1Q84%20%281%29/1Q84%20-%20Haruki%20Murakami.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+  <author>
+    <name>Haruki Murakami</name>
+    <uri>../author_0/author_1_Page_1.xml</uri>
+  </author>
+  <published>2012-07-22T07:30:30Z</published>
+  <dcterms:language>es</dcterms:language>
+  <dcterms:publisher>TUSQUETS EDITORES</dcterms:publisher>
+  <category term="Lang:es" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Lang:es
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="" class="description">En japonés, la letra q y el
+    número 9 son homófonos, los dos se pronuncian kyu, de
+    manera que 1Q84 es, sin serlo, 1984, una fecha de ecos
+    orwellianos. Esa variación en la grafía refleja la
+    sutil alteración del mundo en que habitan los personajes
+    de esta novela, que es, también sin serlo, el Japón
+    de 1984. En ese mundo en apariencia normal y reconocible se
+    mueven Aomame, una mujer independiente, instructora en un
+    gimnasio, y Tengo, un profesor de matemáticas. Ambos
+    rondan los treinta años, ambos llevan vidas solitarias y
+    ambos perciben a su modo leves desajustes en su entorno, que
+    los conducirán de manera inexorable a un destino
+    común. Y ambos son más de lo que parecen: la bella
+    Aomame es una asesina; el anodino Tengo, un aspirante a
+    novelista al que su editor ha encargado un trabajo relacionado
+    con La crisálida del aire, una enigmática obra
+    dictada por una esquiva adolescente. Y, como telón de
+    fondo de la historia, el universo de las sectas religiosas, el
+    maltrato y la corrupción, un universo enrarecido que el
+    narrador escarba con precisión orwelliana.</p>
+  </content>
+  <link href="../author_0/author_1_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Haruki Murakami" />
+  <link href="http://www.goodreads.com/book/title/1Q84" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/1Q84" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/1Q84%20Haruki%20Murakami" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=1Q84&amp;field-author=Haruki%20Murakami" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Haruki%20Murakami" type="text/html" rel="related" title="Haruki Murakami on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Haruki%20Murakami" type="text/html" rel="related" title="Haruki Murakami on Wikipedia" />
+  <link href="http://www.librarything.com/author/MurakamiHaruki" type="text/html" rel="related" title="Haruki Murakami on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Haruki%20Murakami" type="text/html" rel="related" title="Haruki Murakami on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Haruki%20Murakami" type="text/html" rel="related" title="Haruki Murakami on ISFDB" />
+</entry>
