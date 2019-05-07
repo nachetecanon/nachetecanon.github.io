@@ -2,13 +2,13 @@
 <entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <title>Elasticsearch: A Complete Guide</title>
   <id>urn:book:66d2d015-fbec-4416-99d2-6a9ce6b57957</id>
-  <updated>2019-05-06T03:09:55Z</updated>
+  <updated>2019-05-07T07:35:53Z</updated>
   <link href="./book_48.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Elasticsearch: A Complete Guide" />
-  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Nacho Books" />
-  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Nacho Books" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Nacho's library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Nacho's library" />
   <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
-  <link href="book_48_c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
-  <link href="../book_0/book_48_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Bharvi%20Dixit/Elasticsearch_%20A%20Complete%20Guide%20%2848%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Bharvi%20Dixit/Elasticsearch_%20A%20Complete%20Guide%20%2848%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
   <link href="../../Bharvi%20Dixit/Elasticsearch_%20A%20Complete%20Guide%20%2848%29/Elasticsearch_%20A%20Complete%20Guide%20-%20Bharvi%20Dixit.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
   <author>
     <name>Bharvi Dixit</name>

@@ -9,14 +9,14 @@
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
   <link href="./tag_10_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="sci_history" />
-  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Nacho Books" />
-  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Nacho Books" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Nacho's library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Nacho's library" />
   <link href="../taglist/taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tags" />
   <entry>
     <title>Las intermitencias de la muerte</title>
     <id>calibre:book:28</id>
-    <updated>2019-05-06T03:09:49Z</updated>
-    <link href="../book_0/book_28_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>2019-05-07T07:35:54Z</updated>
+    <link href="../../Jose%20Saramago/Las%20intermitencias%20de%20la%20muerte%20%2828%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Jose%20Saramago/Las%20intermitencias%20de%20la%20muerte%20%2828%29/Las%20intermitencias%20de%20la%20muerte%20-%20Jose%20Saramago.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
     <author>
       <name>José Saramago</name>

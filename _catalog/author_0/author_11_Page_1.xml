@@ -9,14 +9,14 @@
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
   <link href="./author_11_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Yukio Mishima" />
-  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Nacho Books" />
-  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Nacho Books" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Nacho's library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Nacho's library" />
   <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
   <entry>
     <title>Mishima, Yukio</title>
     <id>calibre:book:22</id>
-    <updated>2019-05-06T03:09:47Z</updated>
-    <link href="../book_0/book_22_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>2019-05-07T07:35:54Z</updated>
+    <link href="../../Yukio%20Mishima/Mishima%2C%20Yukio%20%2822%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Yukio%20Mishima/Mishima%2C%20Yukio%20%2822%29/Mishima%2C%20Yukio%20-%20Yukio%20Mishima.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
     <author>
       <name>Yukio Mishima</name>
@@ -30,8 +30,8 @@
   <entry>
     <title>Nieve en primavera</title>
     <id>calibre:book:21</id>
-    <updated>2019-05-06T03:09:47Z</updated>
-    <link href="../book_0/book_21_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>2019-05-07T07:35:54Z</updated>
+    <link href="../../Yukio%20Mishima/Nieve%20en%20primavera%20%2821%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Yukio%20Mishima/Nieve%20en%20primavera%20%2821%29/Nieve%20en%20primavera%20-%20Yukio%20Mishima.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
     <author>
       <name>Yukio Mishima</name>
@@ -46,8 +46,8 @@
   <entry>
     <title>Los siete puentes</title>
     <id>calibre:book:25</id>
-    <updated>2019-05-06T03:09:48Z</updated>
-    <link href="../book_0/book_25_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>2019-05-07T07:35:54Z</updated>
+    <link href="../../Yukio%20Mishima/Los%20siete%20puentes%20%2825%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Yukio%20Mishima/Los%20siete%20puentes%20%2825%29/Los%20siete%20puentes%20-%20Yukio%20Mishima.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
     <author>
       <name>Yukio Mishima</name>

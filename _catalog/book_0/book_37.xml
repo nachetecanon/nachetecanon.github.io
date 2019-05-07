@@ -2,13 +2,13 @@
 <entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <title>Java Performance: The Definitive Guide</title>
   <id>urn:book:ce94d8e1-0f1b-4d72-a300-4410a20ce722</id>
-  <updated>2019-05-06T03:09:52Z</updated>
+  <updated>2019-05-07T07:35:54Z</updated>
   <link href="./book_37.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Java Performance: The Definitive Guide" />
-  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Nacho Books" />
-  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Nacho Books" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Nacho's library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Nacho's library" />
   <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
-  <link href="book_37_c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
-  <link href="../book_0/book_37_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Scott%20Oaks/Java%20Performance_%20The%20Definitive%20Guide%20%2837%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Scott%20Oaks/Java%20Performance_%20The%20Definitive%20Guide%20%2837%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
   <link href="../../Scott%20Oaks/Java%20Performance_%20The%20Definitive%20Guide%20%2837%29/Java%20Performance_%20The%20Definitive%20Guide%20-%20Scott%20Oaks.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
   <author>
     <name>Scott Oaks</name>

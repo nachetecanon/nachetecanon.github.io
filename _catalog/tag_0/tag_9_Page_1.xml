@@ -9,14 +9,14 @@
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
   <link href="./tag_9_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="japones" />
-  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Nacho Books" />
-  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Nacho Books" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Nacho's library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Nacho's library" />
   <link href="../taglist/taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tags" />
   <entry>
     <title>Los siete puentes</title>
     <id>calibre:book:25</id>
-    <updated>2019-05-06T03:09:48Z</updated>
-    <link href="../book_0/book_25_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>2019-05-07T07:35:54Z</updated>
+    <link href="../../Yukio%20Mishima/Los%20siete%20puentes%20%2825%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Yukio%20Mishima/Los%20siete%20puentes%20%2825%29/Los%20siete%20puentes%20-%20Yukio%20Mishima.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
     <author>
       <name>Yukio Mishima</name>

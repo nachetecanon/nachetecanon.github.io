@@ -9,14 +9,14 @@
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
   <link href="./author_5_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Lewis Carroll" />
-  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Nacho Books" />
-  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Nacho Books" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Nacho's library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Nacho's library" />
   <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
   <entry>
     <title>Alicia a través del espejo</title>
     <id>calibre:book:7</id>
-    <updated>2019-05-06T03:08:10Z</updated>
-    <link href="../book_0/book_7_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>2019-05-07T07:35:54Z</updated>
+    <link href="../../Lewis%20Carroll/Alicia%20a%20traves%20del%20espejo%20%287%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Lewis%20Carroll/Alicia%20a%20traves%20del%20espejo%20%287%29/Alicia%20a%20traves%20del%20espejo%20-%20Lewis%20Carroll.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
     <author>
       <name>Lewis Carroll</name>
@@ -32,8 +32,8 @@
   <entry>
     <title>Alicia en el Pais de las Maravillas</title>
     <id>calibre:book:6</id>
-    <updated>2019-05-06T03:08:10Z</updated>
-    <link href="../book_0/book_6_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>2019-05-07T07:35:54Z</updated>
+    <link href="../../Lewis%20Carroll/Alicia%20en%20el%20Pais%20de%20las%20Maravillas%20%286%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Lewis%20Carroll/Alicia%20en%20el%20Pais%20de%20las%20Maravillas%20%286%29/Alicia%20en%20el%20Pais%20de%20las%20Maravillas%20-%20Lewis%20Carroll.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
     <author>
       <name>Lewis Carroll</name>

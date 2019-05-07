@@ -2,13 +2,13 @@
 <entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <title>Tropico de Cancer</title>
   <id>urn:book:dd5a1dcd-068c-4125-b049-7b913c66a0d2</id>
-  <updated>2019-05-06T03:10:52Z</updated>
+  <updated>2019-05-07T07:35:54Z</updated>
   <link href="./book_54.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Tropico de Cancer" />
-  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Nacho Books" />
-  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Nacho Books" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Nacho's library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Nacho's library" />
   <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
-  <link href="book_54_c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
-  <link href="../book_0/book_54_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Henry%20Miller/Tropico%20de%20Cancer%20%2854%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Henry%20Miller/Tropico%20de%20Cancer%20%2854%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
   <link href="../../Henry%20Miller/Tropico%20de%20Cancer%20%2854%29/Tropico%20de%20Cancer%20-%20Henry%20Miller.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
   <author>
     <name>Henry Miller</name>

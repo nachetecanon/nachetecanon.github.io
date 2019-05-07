@@ -2,13 +2,13 @@
 <entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <title>Oscar Wilde - El Amigo Fiel</title>
   <id>urn:book:7537e852-7ee9-4e3f-bddb-8554aa52ea95</id>
-  <updated>2019-05-06T03:09:46Z</updated>
+  <updated>2019-05-07T07:35:54Z</updated>
   <link href="./book_18.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Oscar Wilde - El Amigo Fiel" />
-  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Nacho Books" />
-  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Nacho Books" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
-  <link href="book_18_c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
-  <link href="../book_0/book_18_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Nacho's library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Nacho's library" />
+  <link href="../authorlist/authorlist_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../../Oscar%20Wilde/Oscar%20Wilde%20-%20El%20Amigo%20Fiel%20%2818%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Oscar%20Wilde/Oscar%20Wilde%20-%20El%20Amigo%20Fiel%20%2818%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
   <link href="../../Oscar%20Wilde/Oscar%20Wilde%20-%20El%20Amigo%20Fiel%20%2818%29/Oscar%20Wilde%20-%20El%20Amigo%20Fiel%20-%20Oscar%20Wilde.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
   <author>
     <name>Oscar Wilde</name>

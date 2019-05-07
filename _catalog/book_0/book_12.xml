@@ -2,13 +2,13 @@
 <entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <title>Crónica del pájaro que da cuerda al mundo</title>
   <id>urn:book:067b812d-09fc-4a04-a17e-c5c732628e4c</id>
-  <updated>2019-05-06T03:09:44Z</updated>
+  <updated>2019-05-07T07:35:54Z</updated>
   <link href="./book_12.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Crónica del pájaro que da cuerda al mundo" />
-  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Nacho Books" />
-  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Nacho Books" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Nacho's library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Nacho's library" />
   <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
-  <link href="book_12_c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
-  <link href="../book_0/book_12_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Haruki%20Murakami/Cronica%20del%20pajaro%20que%20da%20cuerda%20al%20mundo%20%2812%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Haruki%20Murakami/Cronica%20del%20pajaro%20que%20da%20cuerda%20al%20mundo%20%2812%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
   <link href="../../Haruki%20Murakami/Cronica%20del%20pajaro%20que%20da%20cuerda%20al%20mundo%20%2812%29/Cronica%20del%20pajaro%20que%20da%20cuerda%20al%20mundo%20-%20Haruki%20Murakami.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
   <author>
     <name>Haruki Murakami</name>

@@ -9,14 +9,14 @@
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
   <link href="./tag_7_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="General Interest" />
-  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Nacho Books" />
-  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Nacho Books" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Nacho's library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Nacho's library" />
   <link href="../taglist/taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tags" />
   <entry>
     <title>El asombroso viaje de Pomponio Flato</title>
     <id>calibre:book:47</id>
-    <updated>2019-05-06T03:09:55Z</updated>
-    <link href="../book_0/book_47_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>2019-05-07T07:35:54Z</updated>
+    <link href="../../Mendoza%2C%20Eduardo/El%20asombroso%20viaje%20de%20Pomponio%20Flato%20%2847%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Mendoza%2C%20Eduardo/El%20asombroso%20viaje%20de%20Pomponio%20Flato%20%2847%29/El%20asombroso%20viaje%20de%20Pomponio%20Flato%20-%20Mendoza%2C%20Eduardo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
     <author>
       <name>Mendoza, Eduardo</name>
@@ -29,8 +29,8 @@
   <entry>
     <title>Los Borgia</title>
     <id>calibre:book:27</id>
-    <updated>2019-05-06T03:09:49Z</updated>
-    <link href="../book_0/book_27_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>2019-05-07T07:35:54Z</updated>
+    <link href="../../Mario%20Puzo/Los%20Borgia%20%2827%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Mario%20Puzo/Los%20Borgia%20%2827%29/Los%20Borgia%20-%20Mario%20Puzo.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
     <author>
       <name>Mario Puzo</name>
@@ -45,8 +45,8 @@
   <entry>
     <title>La cuarta K</title>
     <id>calibre:book:29</id>
-    <updated>2019-05-06T03:09:49Z</updated>
-    <link href="../book_0/book_29_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>2019-05-07T07:35:54Z</updated>
+    <link href="../../Mario%20Puzo/La%20cuarta%20K%20%2829%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Mario%20Puzo/La%20cuarta%20K%20%2829%29/La%20cuarta%20K%20-%20Mario%20Puzo.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
     <author>
       <name>Mario Puzo</name>
@@ -61,8 +61,8 @@
   <entry>
     <title>Ensayo sobre la lucidez</title>
     <id>calibre:book:42</id>
-    <updated>2019-05-06T03:09:53Z</updated>
-    <link href="../book_0/book_42_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>2019-05-07T07:35:54Z</updated>
+    <link href="../../Jose%20Saramago/Ensayo%20sobre%20la%20lucidez%20%2842%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Jose%20Saramago/Ensayo%20sobre%20la%20lucidez%20%2842%29/Ensayo%20sobre%20la%20lucidez%20-%20Jose%20Saramago.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
     <author>
       <name>José Saramago</name>
@@ -77,8 +77,8 @@
   <entry>
     <title>Omerta</title>
     <id>calibre:book:19</id>
-    <updated>2019-05-06T03:09:46Z</updated>
-    <link href="../book_0/book_19_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>2019-05-07T07:35:54Z</updated>
+    <link href="../../Mario%20Puzo/Omerta%20%2819%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Mario%20Puzo/Omerta%20%2819%29/Omerta%20-%20Mario%20Puzo.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
     <author>
       <name>Mario Puzo</name>
@@ -93,8 +93,8 @@
   <entry>
     <title>El Último Don</title>
     <id>calibre:book:44</id>
-    <updated>2019-05-06T03:09:54Z</updated>
-    <link href="../book_0/book_44_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>2019-05-07T07:35:54Z</updated>
+    <link href="../../Mario%20Puzo/El%20Ultimo%20Don%20%2844%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Mario%20Puzo/El%20Ultimo%20Don%20%2844%29/El%20Ultimo%20Don%20-%20Mario%20Puzo.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
     <author>
       <name>Mario Puzo</name>

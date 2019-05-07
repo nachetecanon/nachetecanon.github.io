@@ -9,14 +9,14 @@
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
   <link href="./author_1_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Haruki Murakami" />
-  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Nacho Books" />
-  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Nacho Books" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Nacho's library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Nacho's library" />
   <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
   <entry>
     <title>1Q84</title>
     <id>calibre:book:1</id>
-    <updated>2019-05-06T03:08:08Z</updated>
-    <link href="../book_0/book_1_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>2019-05-07T07:35:54Z</updated>
+    <link href="../../Haruki%20Murakami/1Q84%20%281%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Haruki%20Murakami/1Q84%20%281%29/1Q84%20-%20Haruki%20Murakami.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
     <author>
       <name>Haruki Murakami</name>
@@ -32,8 +32,8 @@
   <entry>
     <title>After Dark</title>
     <id>calibre:book:8</id>
-    <updated>2019-05-06T03:08:10Z</updated>
-    <link href="../book_0/book_8_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>2019-05-07T07:35:54Z</updated>
+    <link href="../../Haruki%20Murakami/After%20Dark%20%288%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Haruki%20Murakami/After%20Dark%20%288%29/After%20Dark%20-%20Haruki%20Murakami.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
     <author>
       <name>Haruki Murakami</name>
@@ -47,8 +47,8 @@
   <entry>
     <title>Baila, baila, baila</title>
     <id>calibre:book:5</id>
-    <updated>2019-05-06T03:08:09Z</updated>
-    <link href="../book_0/book_5_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>2019-05-07T07:35:54Z</updated>
+    <link href="../../Haruki%20Murakami/Baila%2C%20baila%2C%20baila%20%285%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Haruki%20Murakami/Baila%2C%20baila%2C%20baila%20%285%29/Baila%2C%20baila%2C%20baila%20-%20Haruki%20Murakami.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
     <author>
       <name>Haruki Murakami</name>
@@ -64,8 +64,8 @@
   <entry>
     <title>Crónica del pájaro que da cuerda al mundo</title>
     <id>calibre:book:12</id>
-    <updated>2019-05-06T03:09:44Z</updated>
-    <link href="../book_0/book_12_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>2019-05-07T07:35:54Z</updated>
+    <link href="../../Haruki%20Murakami/Cronica%20del%20pajaro%20que%20da%20cuerda%20al%20mundo%20%2812%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Haruki%20Murakami/Cronica%20del%20pajaro%20que%20da%20cuerda%20al%20mundo%20%2812%29/Cronica%20del%20pajaro%20que%20da%20cuerda%20al%20mundo%20-%20Haruki%20Murakami.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
     <author>
       <name>Haruki Murakami</name>
@@ -79,8 +79,8 @@
   <entry>
     <title>Kafka en la orilla</title>
     <id>calibre:book:36</id>
-    <updated>2019-05-06T03:09:51Z</updated>
-    <link href="../book_0/book_36_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>2019-05-07T07:35:54Z</updated>
+    <link href="../../Haruki%20Murakami/Kafka%20en%20la%20orilla%20%2836%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Haruki%20Murakami/Kafka%20en%20la%20orilla%20%2836%29/Kafka%20en%20la%20orilla%20-%20Haruki%20Murakami.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
     <author>
       <name>Haruki Murakami</name>
@@ -94,8 +94,8 @@
   <entry>
     <title>Sauce ciego, mujer dormida</title>
     <id>calibre:book:58</id>
-    <updated>2019-05-06T03:10:53Z</updated>
-    <link href="../book_0/book_58_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>2019-05-07T07:35:54Z</updated>
+    <link href="../../Haruki%20Murakami/Sauce%20ciego%2C%20mujer%20dormida%20%2858%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Haruki%20Murakami/Sauce%20ciego%2C%20mujer%20dormida%20%2858%29/Sauce%20ciego%2C%20mujer%20dormida%20-%20Haruki%20Murakami.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
     <author>
       <name>Haruki Murakami</name>
@@ -109,8 +109,8 @@
   <entry>
     <title>Tokio Blues (Norwegian Wood)</title>
     <id>calibre:book:55</id>
-    <updated>2019-05-06T03:10:52Z</updated>
-    <link href="../book_0/book_55_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>2019-05-07T07:35:54Z</updated>
+    <link href="../../Haruki%20Murakami/Tokio%20Blues%20%28Norwegian%20Wood%29%20%2855%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Haruki%20Murakami/Tokio%20Blues%20%28Norwegian%20Wood%29%20%2855%29/Tokio%20Blues%20%28Norwegian%20Wood%29%20-%20Haruki%20Murakami.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
     <author>
       <name>Haruki Murakami</name>

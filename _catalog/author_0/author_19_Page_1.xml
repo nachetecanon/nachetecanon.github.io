@@ -9,14 +9,14 @@
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
   <link href="./author_19_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Packt Publishing" />
-  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Nacho Books" />
-  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Nacho Books" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Nacho's library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Nacho's library" />
   <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
   <entry>
     <title>Getting Started with Kubernetes, Second Edition</title>
     <id>calibre:book:39</id>
-    <updated>2019-05-06T03:09:52Z</updated>
-    <link href="../book_0/book_39_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>2019-05-07T07:35:54Z</updated>
+    <link href="../../Packt%20Publishing/Getting%20Started%20with%20Kubernetes%2C%20Second%20Edition%20%2839%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Packt%20Publishing/Getting%20Started%20with%20Kubernetes%2C%20Second%20Edition%20%2839%29/Getting%20Started%20with%20Kubernetes%2C%20Second%20Ed%20-%20Packt%20Publishing.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
     <author>
       <name>Packt Publishing</name>

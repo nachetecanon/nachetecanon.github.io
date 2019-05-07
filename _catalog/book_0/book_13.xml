@@ -2,13 +2,13 @@
 <entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <title>DevOps with Kubernetes, Second Edition</title>
   <id>urn:book:0143f83f-b6c2-4585-825c-48d7472fca9f</id>
-  <updated>2019-05-06T03:09:44Z</updated>
+  <updated>2019-05-07T07:35:54Z</updated>
   <link href="./book_13.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="DevOps with Kubernetes, Second Edition" />
-  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Nacho Books" />
-  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Nacho Books" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Nacho's library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Nacho's library" />
   <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
-  <link href="book_13_c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
-  <link href="../book_0/book_13_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Hideto%20Saito/DevOps%20with%20Kubernetes%2C%20Second%20Edition%20%2813%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Hideto%20Saito/DevOps%20with%20Kubernetes%2C%20Second%20Edition%20%2813%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
   <link href="../../Hideto%20Saito/DevOps%20with%20Kubernetes%2C%20Second%20Edition%20%2813%29/DevOps%20with%20Kubernetes%2C%20Second%20Edition%20-%20Hideto%20Saito.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
   <author>
     <name>Hideto Saito</name>

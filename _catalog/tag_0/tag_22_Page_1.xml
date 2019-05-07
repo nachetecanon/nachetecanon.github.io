@@ -9,14 +9,14 @@
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
   <link href="./tag_22_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Lang:es" />
-  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Nacho Books" />
-  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Nacho Books" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Nacho's library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Nacho's library" />
   <link href="../taglist/taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tags" />
   <entry>
     <title>1Q84</title>
     <id>calibre:book:1</id>
-    <updated>2019-05-06T03:08:08Z</updated>
-    <link href="../book_0/book_1_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>2019-05-07T07:35:54Z</updated>
+    <link href="../../Haruki%20Murakami/1Q84%20%281%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Haruki%20Murakami/1Q84%20%281%29/1Q84%20-%20Haruki%20Murakami.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
     <author>
       <name>Haruki Murakami</name>
@@ -32,8 +32,8 @@
   <entry>
     <title>After Dark</title>
     <id>calibre:book:8</id>
-    <updated>2019-05-06T03:08:10Z</updated>
-    <link href="../book_0/book_8_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>2019-05-07T07:35:54Z</updated>
+    <link href="../../Haruki%20Murakami/After%20Dark%20%288%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Haruki%20Murakami/After%20Dark%20%288%29/After%20Dark%20-%20Haruki%20Murakami.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
     <author>
       <name>Haruki Murakami</name>
@@ -47,8 +47,8 @@
   <entry>
     <title>Alicia a través del espejo</title>
     <id>calibre:book:7</id>
-    <updated>2019-05-06T03:08:10Z</updated>
-    <link href="../book_0/book_7_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>2019-05-07T07:35:54Z</updated>
+    <link href="../../Lewis%20Carroll/Alicia%20a%20traves%20del%20espejo%20%287%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Lewis%20Carroll/Alicia%20a%20traves%20del%20espejo%20%287%29/Alicia%20a%20traves%20del%20espejo%20-%20Lewis%20Carroll.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
     <author>
       <name>Lewis Carroll</name>
@@ -64,8 +64,8 @@
   <entry>
     <title>Alicia en el Pais de las Maravillas</title>
     <id>calibre:book:6</id>
-    <updated>2019-05-06T03:08:10Z</updated>
-    <link href="../book_0/book_6_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>2019-05-07T07:35:54Z</updated>
+    <link href="../../Lewis%20Carroll/Alicia%20en%20el%20Pais%20de%20las%20Maravillas%20%286%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Lewis%20Carroll/Alicia%20en%20el%20Pais%20de%20las%20Maravillas%20%286%29/Alicia%20en%20el%20Pais%20de%20las%20Maravillas%20-%20Lewis%20Carroll.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
     <author>
       <name>Lewis Carroll</name>
@@ -82,8 +82,8 @@
   <entry>
     <title>A sangre fria</title>
     <id>calibre:book:2</id>
-    <updated>2019-05-06T03:08:08Z</updated>
-    <link href="../book_0/book_2_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>2019-05-07T07:35:54Z</updated>
+    <link href="../../Truman%20Capote/A%20sangre%20fria%20%282%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Truman%20Capote/A%20sangre%20fria%20%282%29/A%20sangre%20fria%20-%20Truman%20Capote.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
     <author>
       <name>Truman Capote</name>
@@ -99,8 +99,8 @@
   <entry>
     <title>Baila, baila, baila</title>
     <id>calibre:book:5</id>
-    <updated>2019-05-06T03:08:09Z</updated>
-    <link href="../book_0/book_5_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>2019-05-07T07:35:54Z</updated>
+    <link href="../../Haruki%20Murakami/Baila%2C%20baila%2C%20baila%20%285%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Haruki%20Murakami/Baila%2C%20baila%2C%20baila%20%285%29/Baila%2C%20baila%2C%20baila%20-%20Haruki%20Murakami.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
     <author>
       <name>Haruki Murakami</name>
@@ -116,8 +116,8 @@
   <entry>
     <title>Las Baladas Del Ajo</title>
     <id>calibre:book:30</id>
-    <updated>2019-05-06T03:09:49Z</updated>
-    <link href="../book_0/book_30_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>2019-05-07T07:35:54Z</updated>
+    <link href="../../Mo%20Yan/Las%20Baladas%20Del%20Ajo%20%2830%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Mo%20Yan/Las%20Baladas%20Del%20Ajo%20%2830%29/Las%20Baladas%20Del%20Ajo%20-%20Mo%20Yan.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
     <author>
       <name>Mo Yan</name>
@@ -131,8 +131,8 @@
   <entry>
     <title>Los Borgia</title>
     <id>calibre:book:27</id>
-    <updated>2019-05-06T03:09:49Z</updated>
-    <link href="../book_0/book_27_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>2019-05-07T07:35:54Z</updated>
+    <link href="../../Mario%20Puzo/Los%20Borgia%20%2827%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Mario%20Puzo/Los%20Borgia%20%2827%29/Los%20Borgia%20-%20Mario%20Puzo.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
     <author>
       <name>Mario Puzo</name>
@@ -147,8 +147,8 @@
   <entry>
     <title>Crónica del pájaro que da cuerda al mundo</title>
     <id>calibre:book:12</id>
-    <updated>2019-05-06T03:09:44Z</updated>
-    <link href="../book_0/book_12_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>2019-05-07T07:35:54Z</updated>
+    <link href="../../Haruki%20Murakami/Cronica%20del%20pajaro%20que%20da%20cuerda%20al%20mundo%20%2812%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Haruki%20Murakami/Cronica%20del%20pajaro%20que%20da%20cuerda%20al%20mundo%20%2812%29/Cronica%20del%20pajaro%20que%20da%20cuerda%20al%20mundo%20-%20Haruki%20Murakami.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
     <author>
       <name>Haruki Murakami</name>
@@ -162,8 +162,8 @@
   <entry>
     <title>La cuarta K</title>
     <id>calibre:book:29</id>
-    <updated>2019-05-06T03:09:49Z</updated>
-    <link href="../book_0/book_29_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>2019-05-07T07:35:54Z</updated>
+    <link href="../../Mario%20Puzo/La%20cuarta%20K%20%2829%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Mario%20Puzo/La%20cuarta%20K%20%2829%29/La%20cuarta%20K%20-%20Mario%20Puzo.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
     <author>
       <name>Mario Puzo</name>
@@ -178,8 +178,8 @@
   <entry>
     <title>Ensayo sobre la lucidez</title>
     <id>calibre:book:42</id>
-    <updated>2019-05-06T03:09:53Z</updated>
-    <link href="../book_0/book_42_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>2019-05-07T07:35:54Z</updated>
+    <link href="../../Jose%20Saramago/Ensayo%20sobre%20la%20lucidez%20%2842%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Jose%20Saramago/Ensayo%20sobre%20la%20lucidez%20%2842%29/Ensayo%20sobre%20la%20lucidez%20-%20Jose%20Saramago.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
     <author>
       <name>José Saramago</name>
@@ -194,8 +194,8 @@
   <entry>
     <title>Las intermitencias de la muerte</title>
     <id>calibre:book:28</id>
-    <updated>2019-05-06T03:09:49Z</updated>
-    <link href="../book_0/book_28_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>2019-05-07T07:35:54Z</updated>
+    <link href="../../Jose%20Saramago/Las%20intermitencias%20de%20la%20muerte%20%2828%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Jose%20Saramago/Las%20intermitencias%20de%20la%20muerte%20%2828%29/Las%20intermitencias%20de%20la%20muerte%20-%20Jose%20Saramago.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
     <author>
       <name>José Saramago</name>
@@ -211,8 +211,8 @@
   <entry>
     <title>Kafka en la orilla</title>
     <id>calibre:book:36</id>
-    <updated>2019-05-06T03:09:51Z</updated>
-    <link href="../book_0/book_36_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>2019-05-07T07:35:54Z</updated>
+    <link href="../../Haruki%20Murakami/Kafka%20en%20la%20orilla%20%2836%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Haruki%20Murakami/Kafka%20en%20la%20orilla%20%2836%29/Kafka%20en%20la%20orilla%20-%20Haruki%20Murakami.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
     <author>
       <name>Haruki Murakami</name>
@@ -226,8 +226,8 @@
   <entry>
     <title>Kitchen</title>
     <id>calibre:book:34</id>
-    <updated>2019-05-06T03:09:51Z</updated>
-    <link href="../book_0/book_34_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>2019-05-07T07:35:53Z</updated>
+    <link href="../../Banana%20Yoshimoto/Kitchen%20%2834%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Banana%20Yoshimoto/Kitchen%20%2834%29/Kitchen%20-%20Banana%20Yoshimoto.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
     <author>
       <name>Banana Yoshimoto</name>
@@ -245,8 +245,8 @@
   <entry>
     <title>Mishima, Yukio</title>
     <id>calibre:book:22</id>
-    <updated>2019-05-06T03:09:47Z</updated>
-    <link href="../book_0/book_22_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>2019-05-07T07:35:54Z</updated>
+    <link href="../../Yukio%20Mishima/Mishima%2C%20Yukio%20%2822%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Yukio%20Mishima/Mishima%2C%20Yukio%20%2822%29/Mishima%2C%20Yukio%20-%20Yukio%20Mishima.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
     <author>
       <name>Yukio Mishima</name>
@@ -260,8 +260,8 @@
   <entry>
     <title>Nieve en primavera</title>
     <id>calibre:book:21</id>
-    <updated>2019-05-06T03:09:47Z</updated>
-    <link href="../book_0/book_21_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>2019-05-07T07:35:54Z</updated>
+    <link href="../../Yukio%20Mishima/Nieve%20en%20primavera%20%2821%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Yukio%20Mishima/Nieve%20en%20primavera%20%2821%29/Nieve%20en%20primavera%20-%20Yukio%20Mishima.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
     <author>
       <name>Yukio Mishima</name>
@@ -276,8 +276,8 @@
   <entry>
     <title>Ojos de perro azul</title>
     <id>calibre:book:20</id>
-    <updated>2019-05-06T03:09:46Z</updated>
-    <link href="../book_0/book_20_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>2019-05-07T07:35:54Z</updated>
+    <link href="../../Gabriel%20Garcia%20Marquez/Ojos%20de%20perro%20azul%20%2820%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Gabriel%20Garcia%20Marquez/Ojos%20de%20perro%20azul%20%2820%29/Ojos%20de%20perro%20azul%20-%20Gabriel%20Garcia%20Marquez.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
     <author>
       <name>Gabriel García Márquez</name>
@@ -292,8 +292,8 @@
   <entry>
     <title>Omerta</title>
     <id>calibre:book:19</id>
-    <updated>2019-05-06T03:09:46Z</updated>
-    <link href="../book_0/book_19_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>2019-05-07T07:35:54Z</updated>
+    <link href="../../Mario%20Puzo/Omerta%20%2819%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Mario%20Puzo/Omerta%20%2819%29/Omerta%20-%20Mario%20Puzo.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
     <author>
       <name>Mario Puzo</name>
@@ -308,8 +308,8 @@
   <entry>
     <title>Sauce ciego, mujer dormida</title>
     <id>calibre:book:58</id>
-    <updated>2019-05-06T03:10:53Z</updated>
-    <link href="../book_0/book_58_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>2019-05-07T07:35:54Z</updated>
+    <link href="../../Haruki%20Murakami/Sauce%20ciego%2C%20mujer%20dormida%20%2858%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Haruki%20Murakami/Sauce%20ciego%2C%20mujer%20dormida%20%2858%29/Sauce%20ciego%2C%20mujer%20dormida%20-%20Haruki%20Murakami.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
     <author>
       <name>Haruki Murakami</name>
@@ -323,8 +323,8 @@
   <entry>
     <title>Los siete puentes</title>
     <id>calibre:book:25</id>
-    <updated>2019-05-06T03:09:48Z</updated>
-    <link href="../book_0/book_25_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>2019-05-07T07:35:54Z</updated>
+    <link href="../../Yukio%20Mishima/Los%20siete%20puentes%20%2825%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Yukio%20Mishima/Los%20siete%20puentes%20%2825%29/Los%20siete%20puentes%20-%20Yukio%20Mishima.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
     <author>
       <name>Yukio Mishima</name>
@@ -339,8 +339,8 @@
   <entry>
     <title>Tokio Blues (Norwegian Wood)</title>
     <id>calibre:book:55</id>
-    <updated>2019-05-06T03:10:52Z</updated>
-    <link href="../book_0/book_55_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>2019-05-07T07:35:54Z</updated>
+    <link href="../../Haruki%20Murakami/Tokio%20Blues%20%28Norwegian%20Wood%29%20%2855%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Haruki%20Murakami/Tokio%20Blues%20%28Norwegian%20Wood%29%20%2855%29/Tokio%20Blues%20%28Norwegian%20Wood%29%20-%20Haruki%20Murakami.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
     <author>
       <name>Haruki Murakami</name>
@@ -354,8 +354,8 @@
   <entry>
     <title>Tropico de Cancer</title>
     <id>calibre:book:54</id>
-    <updated>2019-05-06T03:10:52Z</updated>
-    <link href="../book_0/book_54_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>2019-05-07T07:35:54Z</updated>
+    <link href="../../Henry%20Miller/Tropico%20de%20Cancer%20%2854%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Henry%20Miller/Tropico%20de%20Cancer%20%2854%29/Tropico%20de%20Cancer%20-%20Henry%20Miller.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
     <author>
       <name>Henry Miller</name>
@@ -371,8 +371,8 @@
   <entry>
     <title>El Último Don</title>
     <id>calibre:book:44</id>
-    <updated>2019-05-06T03:09:54Z</updated>
-    <link href="../book_0/book_44_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>2019-05-07T07:35:54Z</updated>
+    <link href="../../Mario%20Puzo/El%20Ultimo%20Don%20%2844%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Mario%20Puzo/El%20Ultimo%20Don%20%2844%29/El%20Ultimo%20Don%20-%20Mario%20Puzo.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
     <author>
       <name>Mario Puzo</name>

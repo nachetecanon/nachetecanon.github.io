@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Nacho Books</title>
+  <title>Nacho's library</title>
   <id />
   <author>
     <name>David Pierron</name>
@@ -8,22 +8,9 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Nacho Books" />
-  <link href="./index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Nacho Books" />
-  <link href="./index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Nacho Books" />
-  <entry>
-    <title>About Calibre2opds</title>
-    <id>urn:calibre2opds:about</id>
-    <content type="text">Learn more about Calibre2opds</content>
-    <link href="http://calibre2opds.com/" type="text/html" />
-    <link href="c2o.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
-    <author>
-      <name>David Pierron</name>
-      <uri>http://calibre2opds.com/</uri>
-      <email>dpierron+calibre2opds@gmail.com</email>
-    </author>
-    <updated>1973-01-26T08:00:00Z</updated>
-  </entry>
+  <link href="./index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Nacho's library" />
+  <link href="./index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Nacho's library" />
+  <link href="./index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Nacho's library" />
   <entry>
     <title>Authors</title>
     <id>Calibre2opds:authorlist</id>
@@ -43,23 +30,15 @@
   <entry>
     <title>Recent additions</title>
     <id>Calibre2opds:recent</id>
-    <content type="text">60 most recent books</content>
+    <content type="text">63 most recent books</content>
     <link href="./recent/recent_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="./recent.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
   </entry>
   <entry>
-    <title>Rating</title>
-    <id>Calibre2opds:rated</id>
-    <content type="text">60 books, grouped by rating</content>
-    <link href="./rated/rated.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
-    <link href="./ratings.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
-    <updated>1973-01-26T08:00:00Z</updated>
-  </entry>
-  <entry>
     <title>All books</title>
     <id>Calibre2opds:allbooks</id>
-    <content type="text">Alphabetical index of the 60 books</content>
+    <content type="text">Alphabetical index of the 63 books</content>
     <link href="./allbooks/allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="./allbooks.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>

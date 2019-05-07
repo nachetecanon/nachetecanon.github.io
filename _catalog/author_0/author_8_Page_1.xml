@@ -9,14 +9,14 @@
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
   <link href="./author_8_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Oscar Wilde" />
-  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Nacho Books" />
-  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Nacho Books" />
-  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Nacho's library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Nacho's library" />
+  <link href="../authorlist/authorlist_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
   <entry>
     <title>Oscar Wilde - El Amigo Fiel</title>
     <id>calibre:book:18</id>
-    <updated>2019-05-06T03:09:46Z</updated>
-    <link href="../book_0/book_18_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>2019-05-07T07:35:54Z</updated>
+    <link href="../../Oscar%20Wilde/Oscar%20Wilde%20-%20El%20Amigo%20Fiel%20%2818%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Oscar%20Wilde/Oscar%20Wilde%20-%20El%20Amigo%20Fiel%20%2818%29/Oscar%20Wilde%20-%20El%20Amigo%20Fiel%20-%20Oscar%20Wilde.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
     <author>
       <name>Oscar Wilde</name>
@@ -30,8 +30,8 @@
   <entry>
     <title>Oscar Wilde - El Fantasma de Canterville</title>
     <id>calibre:book:17</id>
-    <updated>2019-05-06T03:09:46Z</updated>
-    <link href="../book_0/book_17_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>2019-05-07T07:35:54Z</updated>
+    <link href="../../Oscar%20Wilde/Oscar%20Wilde%20-%20El%20Fantasma%20de%20Canterville%20%2817%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Oscar%20Wilde/Oscar%20Wilde%20-%20El%20Fantasma%20de%20Canterville%20%2817%29/Oscar%20Wilde%20-%20El%20Fantasma%20de%20Canterville%20-%20Oscar%20Wilde.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
     <author>
       <name>Oscar Wilde</name>
@@ -45,8 +45,8 @@
   <entry>
     <title>Oscar Wilde - El Insigne Cohete</title>
     <id>calibre:book:15</id>
-    <updated>2019-05-06T03:09:45Z</updated>
-    <link href="../book_0/book_15_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>2019-05-07T07:35:54Z</updated>
+    <link href="../../Oscar%20Wilde/Oscar%20Wilde%20-%20El%20Insigne%20Cohete%20%2815%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Oscar%20Wilde/Oscar%20Wilde%20-%20El%20Insigne%20Cohete%20%2815%29/Oscar%20Wilde%20-%20El%20Insigne%20Cohete%20-%20Oscar%20Wilde.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
     <author>
       <name>Oscar Wilde</name>

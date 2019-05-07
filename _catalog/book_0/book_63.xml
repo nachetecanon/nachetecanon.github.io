@@ -2,13 +2,13 @@
 <entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <title>Programming Kotlin</title>
   <id>urn:book:702e00df-2cb6-44f0-aa51-80509a78f169</id>
-  <updated>2019-05-06T03:10:55Z</updated>
+  <updated>2019-05-07T07:35:54Z</updated>
   <link href="./book_63.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Programming Kotlin" />
-  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Nacho Books" />
-  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Nacho Books" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Nacho's library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Nacho's library" />
   <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
-  <link href="book_63_c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
-  <link href="../book_0/book_63_c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Samuel%2C%20Stephen%3B%20Bocutiu%2C%20Stefan%3B/Programming%20Kotlin%20%2863%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Samuel%2C%20Stephen%3B%20Bocutiu%2C%20Stefan%3B/Programming%20Kotlin%20%2863%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
   <link href="../../Samuel%2C%20Stephen%3B%20Bocutiu%2C%20Stefan%3B/Programming%20Kotlin%20%2863%29/Programming%20Kotlin%20-%20Samuel%2C%20Stephen%3B%20Bocutiu%2C%20Stefan%3B.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
   <author>
     <name>Samuel, Stephen; Bocutiu, Stefan;</name>
